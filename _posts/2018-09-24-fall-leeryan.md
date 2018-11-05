@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOUR TITLE WILL GO HERE"
+title: "Venice Lifestyle"
 date: 2018-10-28
 categories: "sustainability" 
 author: "YOUR NAME GOES HERE"
