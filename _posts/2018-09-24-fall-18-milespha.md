@@ -9,13 +9,7 @@ lng: -118.4519005
 runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "An essay on West Los Angeles culture"
 ---
-This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
-
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
+Los Angeles, the city of angels, is often cited as the model liberal city because of its progressive stance on immigration, minimum wage, and homelessness. On the surface, the city of over four million people of various cultures and ethnicities seems unified in its effort to improve society; however, with so many different people living in the same place, dissonance is bound to happen. West Los Angeles in particular fails to fully adopt the progressive policies that Los Angeles advocates for. While Los Angeles is seen as a beacon for liberal ideas, West Los Angeles fails to meet the liberal expectations of the city like inclusivity, economic diversity, and helping the homeless due to a history of racial discrimination that influenced the region's current population, a high cost of living that prevents lower income residents from living in the area, and a pattern of neglecting and antagonizing the homeless despite the city’s efforts to help them. Although Los Angeles is one of the most racially diverse cities in the United States, West LA’s population is mainly white and has been since the 1920’s despite the influx of immigrants during the mid to late 20th century. Similarly, while there have been efforts to create affordable housing throughout the city, West LA’s residents are mostly from the upper-middle class since the housing market and local businesses are expensive. Lastly, in spite of the push to get people off the streets through humane methods such as mental health care, West Los Angeles forces the homeless to vacate the area by incorporating hostile architecture, institutions that are supposed to support the homeless hold transients in a negative light, and the West LA Veterans Affairs has failed to provide adequate service.
 
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
