@@ -11,7 +11,8 @@ desc: "test desription"
 ---
 
 This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
-
+**Bold Test**
+*Italicized Test*
 Spaces will work.
 
 Indents do not, so just put a space in for each new paragraph.
