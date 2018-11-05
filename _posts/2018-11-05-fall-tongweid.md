@@ -15,26 +15,26 @@ Hidden in the North side of the University Park neighborhood is a treasure trove
 
 ![The Shrine Auditorium](images/tongweid_1.png)
    {:.image}
-The Shrine Auditorium. This image was found on the [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/ce/Al_Malaikah_Temple-Shrine_Auditorium.JPG)
+The Shrine Auditorium. This image was found on [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/ce/Al_Malaikah_Temple-Shrine_Auditorium.JPG)
    {:.caption} 
  
 ![The Millder and Herriott House](images/tongweid_2.png)
    {:.image}
-The Millder and Herriott House. This image was found on the [Three Shows Filmed in L.A. That Deserve Their Own Day of Observance](http://www.lamag.com/culturefiles/three-t-v-shows-filmed-in-l-a-that-deserve-their-own-day-of-observance/)
+The Millder and Herriott House. This image was found on [Three Shows Filmed in L.A. That Deserve Their Own Day of Observance](http://www.lamag.com/culturefiles/three-t-v-shows-filmed-in-l-a-that-deserve-their-own-day-of-observance/)
    {:.caption}
 
 Further, the neighborhood is marked by a number of public structures underneath which lie the historic moments of the city of angels and glimpses of lives several decades earlier. After neighborhood had become fully fledged at the turn of the twentieth century, the emergence of many infrastructures would later be honored as Los Angeles's cultural-historic monuments. One would hardly miss a Spanish Revival Style building on the South Figueroa Street, which was the Automobile Club of Southern California headquarters. After nearly a century, little does one know that it was from this building that traffic patrols were once sent, the speed limits stipulated, and more importantly, first traffic lights on the nearby streets placed. Behind the famous Felix Chevrolet neon sign located at the corner of the Figueroa Street, one could see the friendship and cooperation between Felix Chevrolet and Pat Sullivan, who is the creator of the cartoon character Felix the Cat that has become a pop culture icon since 1930s. On Jefferson Blvd once stood LA's first police station branch of the downtown headquarter, whose unsolved case known as the Black Dahlia Murder would still linger for decades to come. Although most of these historic buildings were eventually decommissioned, but the University Park is undoubtedly a watershed in the development of the city of Los Angeles in its early days.
 
 ![The Felix Chevrolet neon sign](images/tongweid_3.png)
    {:.image}
-The Felix Chevrolet neon sign. This image was found on the [Flickr Post](https://www.flickr.com/photos/army_arch/8138320272)
+The Felix Chevrolet neon sign. This image was found on [Flickr Post](https://www.flickr.com/photos/army_arch/8138320272)
    {:.caption}
 
 The most explicit aspect of the community’s diversity is probably ethnical, which exists with a sense of stability. The community is considered highly racially diverse for both the city of Los Angeles and the county, with Latino being the major ethnicity. An array of exotic cuisines can be found in the neighborhood, ranging from Thai, Chinese, and Vietnamese dishes, to various Mexican regional cuisine. The street murals then proceed to impart an artistic expression and meaning to the ethnical diversity of the community: David Fichter’s Lifeline: Creating a healthy community (1993) and Elizabeth Eve King’s A Meeting of Minds both depict people of different skin tones. In particular, Lifeline: Creating a healthy community was done in collaboration with community volunteers, which makes it partially a self-image of the community. One of the leitmotifs running through the two street artworks is the power of knowledge, whether it takes the form of children rapt in reading books portrayed by Fichter or the imaginary mingling with great figures from all over the world in the past millennium by King. Indeed, despite cultural differences, people are often brought together to exchange knowledge, and communication made possible via learning in the first place. Through appreciating the murals, looking over a selection of cuisines, or simply walking around the street, one could feel a community with diversity and a hope for a bright future.
 
 ![David Fichter’s Lifeline: Creating a healthy community](images/tongweid_4.jpeg)
    {:.image}
-David Fichter’s Lifeline: Creating a healthy community. This image was found on the [David Fichter Profolio](http://www.davidfichter.com/muralPortfolio/?subCat=health%20centers&setID=14)
+David Fichter’s Lifeline: Creating a healthy community. This image was found on [David Fichter Profolio](http://www.davidfichter.com/muralPortfolio/?subCat=health%20centers&setID=14)
    {:.caption} 
 
 ![Elizabeth Eve King’s mural A Meeting of Minds](images/tongweid_5.jpg)
@@ -50,7 +50,7 @@ Nevertheless, with diversity comes the inevitable existence of social class and 
 
 ![Income statistics of the community](images/tongweid_6.png)
    {:.image}
-The statistics show a low median household income and a high percentage of low-income households in the University Park community. This image was found on the [Mapping LA - LA Times](http://maps.latimes.com/neighborhoods/)
+The statistics show a low median household income and a high percentage of low-income households in the University Park community. This image was found on [Mapping LA - LA Times](http://maps.latimes.com/neighborhoods/)
    {:.caption} 
 
 To an extent, the trend of gentrification in recent years and the demographic changes in the University Park neighborhood over the recent years has provoked anxiety for some local residents. Some residents revealed that promotional brochures of newly constructed housing units seem to be expecting white residents. It was also reported by the locals that rents were increased by landlords in an attempt to draw money from college students. One resident said: “We want things like... a new laundromat on the corner of Whittier and Boyle. We want our streets and sidewalks fixed. We shouldn’t have to wait until white people live here for someone to care enough to fix the sidewalks.” The concern here is not so much the rift between different races as one of many controversial sides of gentrification process. As promising as the benefits brought by gentrification seem, such as a reduction of crime rate, better infrastructures, and diversity in a sense, its adverse impact on housing affordability, inequality, and social conflict is nonetheless unquestionable. This is partly due to some local developers and shopkeepers’ attempts to attract and profit from wealthier residents. What ensues is likely a loss of identity felt by the original residents, as they suffer from a loss of social network in the midst of displacement of lower income families. Gentrification can be an inevitable part of a community which constantly changes, but it is by no means the only pathway of the community towards renewal.
@@ -62,7 +62,7 @@ A checkered history makes the University Park neighborhood: its notable historic
 {:.bibliography} 
 1. Rado, Alicia Di. Below USC Village, the Land Tells Two Centuries of L.A. History. USC News, 2017, news.usc.edu/trojan-family/below-usc-village-the-land-tells-two-centuries-of-l-a-history/. Accessed 31 Oct. 2018.
 2. Henry, Emily. Education Crisis in Los Angeles Illuminates Racial and Economic Divide. The Huffington Post, 7 Dec. 2017, www.huffingtonpost.com/emily-henry/education-crisis-in-los-a_b_200878.html. Accessed 31 Oct. 2018.
-3. Dubb, Steve. Gentrification Hits Historic Los Angeles Neighborhoods. Non Profit News | Nonprofit Quarterly, 7 Nov. 2017, nonprofitquarterly.org/2017/11/07/gentrification-hits-historic-los-angeles-neighborhoods/. Accessed 30 Oct. 2018.
+3. Dubb, Steve. Gentrification Hits Historic Los Angeles Neighborhoods. Non Profit News Nonprofit Quarterly, 7 Nov. 2017, nonprofitquarterly.org/2017/11/07/gentrification-hits-historic-los-angeles-neighborhoods/. Accessed 30 Oct. 2018.
 4. Epting, Charles. “North University Park.” University Park, Los Angeles: a Brief History. University Park, Los Angeles: a Brief History, The History Press, 2013, pp. 71–86. Print.
 5. Medina, Jennifer. In Years Since the Riots, a Changed Complexion in South Central. The New York Times, 24 Apr. 2012, https://www.nytimes.com/2012/04/25/us/in-south-los-angeles-a-changed-complexion-since-the-riots.html. Accessed 28 Oct. 2018.
 6. Barragan, Bianca. The Huge Gap Between How Students and Non-Students Live Around USC. Curbed LA, 24 Apr. 2015, https://la.curbed.com/2015/4/29/9965800/usc-student-nonstudent-housing. Accessed 28 Oct. 2018.
