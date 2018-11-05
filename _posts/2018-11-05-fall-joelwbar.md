@@ -22,7 +22,7 @@ To add an image you will use an exclamation point, then a description in bracket
 ![Mural1.2.jpg](images/example2.jpg)
    {:.image}
 Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
+   {: This mural in West Los Angeles depicts a broken highway with the foundation cracking from underneath, causing the road to fall apart. } 
 
 Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
 
