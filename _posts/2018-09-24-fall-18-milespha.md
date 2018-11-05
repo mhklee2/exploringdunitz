@@ -23,7 +23,7 @@ Here is more text.Here is more text.Here is more text.Here is more text.Here is 
 
 And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
 
-!Hostile Architecture](images/MPHostile_Architecture.jpg)
+![Hostile Architecture](images/MPHostile_Architecture.jpg)
    {:.image}
 A bench with a partition to prevent the homeless from sleeping on it. Found in West LA.
    {:.caption} 
