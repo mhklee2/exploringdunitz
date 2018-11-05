@@ -54,7 +54,7 @@ Santa Monica’s ideals, especially the advancement of youth, show through the a
 Beach Bound Image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
    
-![I Am Love](images/schroederbeachbound.jpg)
+![I Am Love](images/schroederiamlove.jpg)
    {:.image}
 I Am Love image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
