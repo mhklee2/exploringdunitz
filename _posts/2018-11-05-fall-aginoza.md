@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "YOUR TITLE WILL GO HERE"
-date: 2018-10-28
+title: "Koreatown: The Urban Melting Pot of Los Angeles"
+date: 2018-11-05
 categories: "sustainability" 
-author: "Aaron"
+author: "Aaron Ginoza"
 lat: 34.063207
 lng: -118.299605
 runningtitle: "this is just the title at the top, no need to do anything here"
