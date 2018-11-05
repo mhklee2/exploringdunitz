@@ -1,59 +1,71 @@
 ---
 layout: post
-title: "YOUR TITLE WILL GO HERE"
+title: "University Park: a neighborhood of diversity"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Tongwei Dai"
-lat: 34.022013
-lng: -118.287865
+lat: 34.031937
+lng: -118.283974
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "University Park"
 ---
-This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
+When a series of gun-toting robberies near the Shrine auditorium was reported and when a person rented an old house with bad air conditioning half way through the unbearable heat, not many would notice that Moorish auditorium and the decades-old Victorian furniture in that house. To an outsider, it can be hard to see through the overshadowing smears on the University Park community regarding crime and poverty, and discover the inherent diversity in its culture, history, and population. Residents of different skin tones and paradigms of various classic architecture along the streets embody its cultural and historic richness. A residential area abutting on the University of California, the neighborhood has been enjoying the vast possibilities a university brings as its outlet to the world. At the same time, however, the underlying chasm looms large when the demographical and economical changes promise betterment of a community with somewhat frail economic foundation.
 
-Spaces will work.
+Hidden in the North side of the University Park neighborhood is a treasure trove of traditional architectures that manifest its cultural abundance and significance. Many impressive houses and mansions were erected before 1920, when the area was one of the most desirable neighborhoods in Los Angeles. The examples of these elegant old-fashioned houses include the 1890 Miller and Herriott House of the Stick and Eastlake Victorian Styles; the 1894 William W. Cockins House of the Late Queen Anne style; and the 1887 Forthmann House, a Victorian mansion of a mixture of styles later turned into a Community house at USC. The gigantic Shrine Auditorium was designed by renowned architects in a Moorish Revival style that tinged it with religious connotation. The USC Village, one of the newest installations to the community, features Oxford- and Hogwarts-inspired gothic architectural style, further expanding the architectural richness of the region. Needless to say, the diversity of architectures makes the University Park a History Preservation Overlay Zones in LA. Although not as impressive as the modernized multi-units in some affluent neighborhoods, the architectural diversity exuding from the artistic appearances of these structures was not built by gigantic cranes and bulldozers. Shaped by history, the inner cultural significance of these structures suffices to turn the neighborhood into a small museum of architecture.
 
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-   
-   
-![You change this and put in your own Image title](images/example2.jpg)
+![The Shrine Auditorium](images/tongweid_1.png)
    {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+The Shrine Auditorium. This image was found on the [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/ce/Al_Malaikah_Temple-Shrine_Auditorium.JPG)
+   {:.caption} 
+ 
+![The Millder and Herriott House](images/tongweid_2.png)
+   {:.image}
+The Millder and Herriott House. This image was found on the [Three Shows Filmed in L.A. That Deserve Their Own Day of Observance](http://www.lamag.com/culturefiles/three-t-v-shows-filmed-in-l-a-that-deserve-their-own-day-of-observance/)
+   {:.caption}
+
+Further, the neighborhood is marked by a number of public structures underneath which lie the historic moments of the city of angels and glimpses of lives several decades earlier. After neighborhood had become fully fledged at the turn of the twentieth century, the emergence of many infrastructures would later be honored as Los Angeles's cultural-historic monuments. One would hardly miss a Spanish Revival Style building on the South Figueroa Street, which was the Automobile Club of Southern California headquarters. After nearly a century, little does one know that it was from this building that traffic patrols were once sent, the speed limits stipulated, and more importantly, first traffic lights on the nearby streets placed. Behind the famous Felix Chevrolet neon sign located at the corner of the Figueroa Street, one could see the friendship and cooperation between Felix Chevrolet and Pat Sullivan, who is the creator of the cartoon character Felix the Cat that has become a pop culture icon since 1930s. On Jefferson Blvd once stood LA's first police station branch of the downtown headquarter, whose unsolved case known as the Black Dahlia Murder would still linger for decades to come. Although most of these historic buildings were eventually decommissioned, but the University Park is undoubtedly a watershed in the development of the city of Los Angeles in its early days.
+
+![The Felix Chevrolet neon sign](images/tongweid_3.png)
+   {:.image}
+The Felix Chevrolet neon sign. This image was found on the [Flickr Post](https://www.flickr.com/photos/army_arch/8138320272)
+   {:.caption}
+
+The most explicit aspect of the community’s diversity is probably ethnical, which exists with a sense of stability. The community is considered highly racially diverse for both the city of Los Angeles and the county, with Latino being the major ethnicity. An array of exotic cuisines can be found in the neighborhood, ranging from Thai, Chinese, and Vietnamese dishes, to various Mexican regional cuisine. The street murals then proceed to impart an artistic expression and meaning to the ethnical diversity of the community: David Fichter’s Lifeline: Creating a healthy community (1993) and Elizabeth Eve King’s A Meeting of Minds both depict people of different skin tones. In particular, Lifeline: Creating a healthy community was done in collaboration with community volunteers, which makes it partially a self-image of the community. One of the leitmotifs running through the two street artworks is the power of knowledge, whether it takes the form of children rapt in reading books portrayed by Fichter or the imaginary mingling with great figures from all over the world in the past millennium by King. Indeed, despite cultural differences, people are often brought together to exchange knowledge, and communication made possible via learning in the first place. Through appreciating the murals, looking over a selection of cuisines, or simply walking around the street, one could feel a community with diversity and a hope for a bright future.
+
+![David Fichter’s Lifeline: Creating a healthy community](images/tongweid_4.jpeg)
+   {:.image}
+David Fichter’s Lifeline: Creating a healthy community. This image was found on the [David Fichter Profolio](http://www.davidfichter.com/muralPortfolio/?subCat=health%20centers&setID=14)
    {:.caption} 
 
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/test.png)
+![Elizabeth Eve King’s mural A Meeting of Minds](images/tongweid_5.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.)
-   {:.caption} html
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+On the wall of the Mercado La Paloma marketplace is Elizabeth Eve King’s mural A Meeting of Minds. This image was found on the [Elizabeth Eve King](http://www.elizabetheveking.com/mural---meetings-of-minds.html)
    {:.caption} 
    
-![You change this and put in your own Image title](images/example2.jpg)
+Although bearing a different complexion from that of the University of Southern California (USC), the adjoining University Park neighborhood arguably came into life with the founding of the university. After USC was founded in 1881, the North University Park neighborhood had seen an influx of residents. The construction of streetcar routes in 1891 to the downtown attracted some prominent citizens to build large mansions here, thus expediting the neighborhood's transition from its arid and rural origin. Students and faculty members also constituted some of the residents of the area. Therefore, it can be said that the University Park neighborhood shares its root with USC, and, rising from a single Italianate wooden structure to one of the leading private research universities in the world, USC has been constantly infusing fresh blood into the community with its students from all over the world. This has played an important role in making diversity a defining feature of the University Park community. The bound between USC and its nearby neighborhoods exists all the way along.
+
+The continual outreach programs and schemes initiated by USC have address several issues in the surrounding community and thus created an unyielding unity between USC and its neighborhoods. Every year, roughly half of the USC students engage in community-related services and programs that encompass education, sport, recreation, health care, and so forth. Formal projects such as New Occupations For Life, Neighborhood Academic Initiative, Community Action on Food Environments had sought to redress issues of gang crimes, unemployment (education), healthful food access respectively in the surrounding neighborhoods. Besides, the opening of USC village would further serve to alleviate the community’s straits in housing and unemployment. Despite the mounting public pressure of relocation after the 1965 Watt Riot, USC decided to stay largely owing to its commitment to the neighborhoods. Indeed, many have ascribed the fact that USC was left all but unscathed in the aftermath of the 1992 large-scale riot in South LA to its dedication to the communities. Every social groups going by their own business merely creates a semblance of harmony, but collaboration is what shapes a truly diverse community and forms the bound in-between. Its importance becomes all the more evident if one were to think of the sheer contrast between the harmony exhibited in the outreach efforts and the unduly, misdirected violence emanating from the riots, both taking place between different racial and cultural groups. The boundary between USC and its surrounding community would have been distinctively palpable without USC’s outreach programs. It is the spontaneous collaboration between the University Park community and USC that maintains peace even during times of unrest.
+
+Nevertheless, with diversity comes the inevitable existence of social class and wealth disparity, which is pronounced in the University Park community and the southern Los Angeles neighborhood as a whole. With the second lowest income level out of all neighborhoods, the University Park community has been stricken with income disparity reflected in education and housing. In 2009, the Los Angeles Unified School District (LAUSD)'s decision to dismiss 3,500 teachers more or less ruptured its relations with the communities and stirred anxiety among local schools. The poignant reality was writ large from the words of a ninth-grader at Crenshaw High School: “We don’t take our education seriously because, what’s the point? We’re not going to get anywhere anyway. Most of the teachers don’t care and our text books are so out of date that they don’t make sense.” It is no coincidence that the schools in impecunious regions that also “happen to be racially diverse” (Emily) are the ones with the lowest test scores, when educational resources are far from equally distributed. In light of this, education is distorted from a pathway to escape poverty to an indication of the inequality itself. The deficiency of sufficient resources would unnerve the students; the schools in the less affluent areas would only perform worse. The disproportion in housing quality also presents a problem. A vendor stated during the interview that the rent doubled over the past 16 years and that it is much harder for the locals to afford housing. As observed in USC’s 2015 State of Neighborhood Report, the presence of students has put a pressure on the rental price, and while a third of student multiunit housing was reasonably hygienic, only eleven percent of the local community counterpart was equally so. After all, the underlying issue is the undeniable financial differences between USC students and non-student residents, which appears more pronounced in the University Park neighborhood where most students elect to live. Consequent upon persistent homeless and education issues are internecine scenarios such as crimes directed towards students. To achieve an even allocation of resources, more aid should be directed towards those in need.
+
+![Income statistics of the community](images/tongweid_6.png)
    {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+The statistics show a low median household income and a high percentage of low-income households in the University Park community. This image was found on the [Mapping LA - LA Times](http://maps.latimes.com/neighborhoods/)
    {:.caption} 
 
-Here is the end of your essay!
+To an extent, the trend of gentrification in recent years and the demographic changes in the University Park neighborhood over the recent years has provoked anxiety for some local residents. Some residents revealed that promotional brochures of newly constructed housing units seem to be expecting white residents. It was also reported by the locals that rents were increased by landlords in an attempt to draw money from college students. One resident said: “We want things like... a new laundromat on the corner of Whittier and Boyle. We want our streets and sidewalks fixed. We shouldn’t have to wait until white people live here for someone to care enough to fix the sidewalks.” The concern here is not so much the rift between different races as one of many controversial sides of gentrification process. As promising as the benefits brought by gentrification seem, such as a reduction of crime rate, better infrastructures, and diversity in a sense, its adverse impact on housing affordability, inequality, and social conflict is nonetheless unquestionable. This is partly due to some local developers and shopkeepers’ attempts to attract and profit from wealthier residents. What ensues is likely a loss of identity felt by the original residents, as they suffer from a loss of social network in the midst of displacement of lower income families. Gentrification can be an inevitable part of a community which constantly changes, but it is by no means the only pathway of the community towards renewal.
+
+A checkered history makes the University Park neighborhood: its notable historic and cultural significance in the first half of the twentieth century has more or less been shaded by a number of social issues at the lowest ebb of its economy. Diversity forms both the frame of the University Park community and the basis of its unrest. USC, as an inseparable part of this community, has been conducting neighborhood research, and in so doing, proposing future strategies for economic stability, health care, housing, and education. Thankfully, in recent years, the centuries-old neighborhood has been on the cusp of renovations led by the city authorities. One could only hope that the neighborhood would once again thrive and extricate itself from the straits it has been in, just like what the murals depict.
 
 #### Works cited
 
 {:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
+1. Rado, Alicia Di. Below USC Village, the Land Tells Two Centuries of L.A. History. USC News, 2017, news.usc.edu/trojan-family/below-usc-village-the-land-tells-two-centuries-of-l-a-history/. Accessed 31 Oct. 2018.
+2. Henry, Emily. Education Crisis in Los Angeles Illuminates Racial and Economic Divide. The Huffington Post, 7 Dec. 2017, www.huffingtonpost.com/emily-henry/education-crisis-in-los-a_b_200878.html. Accessed 31 Oct. 2018.
+3. Dubb, Steve. Gentrification Hits Historic Los Angeles Neighborhoods. Non Profit News | Nonprofit Quarterly, 7 Nov. 2017, nonprofitquarterly.org/2017/11/07/gentrification-hits-historic-los-angeles-neighborhoods/. Accessed 30 Oct. 2018.
+4. Epting, Charles. “North University Park.” University Park, Los Angeles: a Brief History. University Park, Los Angeles: a Brief History, The History Press, 2013, pp. 71–86. Print.
+5. Medina, Jennifer. In Years Since the Riots, a Changed Complexion in South Central. The New York Times, 24 Apr. 2012, https://www.nytimes.com/2012/04/25/us/in-south-los-angeles-a-changed-complexion-since-the-riots.html. Accessed 28 Oct. 2018.
+6. Barragan, Bianca. The Huge Gap Between How Students and Non-Students Live Around USC. Curbed LA, 24 Apr. 2015, https://la.curbed.com/2015/4/29/9965800/usc-student-nonstudent-housing. Accessed 28 Oct. 2018.
+7. University Park. Los Angeles Department of City Planning, https://preservation.lacity.org/hpoz/la/university-park.
+8. Amaro, H. and Advancement Project (2015). State of the Neighborhood Report, 2015. University of Southern California.
+9. Fichter, David. Lifeline: Creating a healthy community. 1986. Social And Public Art Resource Center, http://www.davidfichter.com/muralPortfolio/?subCat=health%20centers&setID=14
