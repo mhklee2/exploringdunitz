@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Venice Beach"
+title: "Venice's Art of Evolution and Preservation"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Kali Lee"
