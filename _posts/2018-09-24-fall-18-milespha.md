@@ -16,7 +16,7 @@ To add an image you will use an exclamation point, then a description in bracket
    
 ![Barbed Wire is an extreme method to deter the homeless population from congregating in the area](images/Barbed_Wire.jpg)
    {:.image}
-This image was found on Santa Monica Blvd. in West Los Angeles
+A wall with barbed wire covering the top. This image was found on Santa Monica Blvd. in West Los Angeles.
    {:.caption} 
 
 Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
