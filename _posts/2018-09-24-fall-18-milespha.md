@@ -23,9 +23,9 @@ Here is more text.Here is more text.Here is more text.Here is more text.Here is 
 
 And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
 
-![You change this and put in your own Image title](images/example1.jpg)
+!Hostile Architecture](images/MPHostile_Architecture.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+A bench with a partition to prevent the homeless from sleeping on it. Found in West LA.
    {:.caption} 
 
 Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
