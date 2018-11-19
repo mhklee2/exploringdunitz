@@ -32,7 +32,7 @@ Figure 1: A bench with a partition to prevent the homeless from sleeping on it. 
 
 For example, the bus stop bench in Figure 1 is a form of hostile architecture because the middle partition prevents the homeless from comfortably laying on the bench at night. Transients must move out of West LA to find shelter because these benches discourage the homeless from resting on them. In addition, West LA harbors extreme hostile architecture, like the barbed wall in Figure 2. 
 
-![Barbed Wire is an extreme method to deter the homeless population from congregating in the area](images/Barbed_Wire.jpg)
+![Barbed Wire is an extreme method to deter the homeless population from congregating in the area](images/Public_Library3.jpg)
    {:.image}
 Figure 2: A wall with barbed wire covering the top. This image was found on Santa Monica Blvd. in West Los Angeles.
    {:.caption} 
