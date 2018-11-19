@@ -24,15 +24,19 @@ INSERT BILLBOARD
 These huge signs accomplish two things: 1) increasing awareness about a company’s product, and 2) deterring visitors who can’t afford these products. The latter effect occurs because upon repeated exposure to these billboards, low income visitors to West LA will realize that the area does not cater to them. To them, the West LA neighborhood offers expensive goods and acts as an economic barrier. Thus, West LA remains economically uniform despite the movement for an even distribution of income. Furthermore, West LA is home to stores like Sushi Tsujita, where dishes can be above $45, and BLACKMARKET, where a shirt can cost $50. These pricey stores further deter low income people from visiting West LA because there are few affordable places to eat and shop at. So local business limit the inclusivity of West LA because they mostly cater to the wealthy residents. Overall, West LA is home to the wealthy, not just in terms of the residents who live there, but also in terms of the local shops and businesses who advertise in the area. Even though economic disparity is a large issue in Los Angeles, West LA does not address it. Moreover, West LA fails to address other important issues in Los Angeles, including homelessness.
 
 Although there are rehabilitative approaches to reduce the homeless population in Los Angeles by providing affordable housing and rehabilitation centers, the West LA community uses hostile architecture to force the homeless to move to other areas. Hostile architecture refers to infrastructure and public property that is specifically made to deter transients from residing and resting in public spaces. It is often regarded as an inefficient and callous approach to dealing with homelessness. 
+
 ![Hostile Architecture](images/MPHostile_Architecture.jpg)
    {:.image}
 Figure 1: A bench with a partition to prevent the homeless from sleeping on it. Found in West LA.
    {:.caption} 
+
 For example, the bus stop bench in Figure 1 is a form of hostile architecture because the middle partition prevents the homeless from comfortably laying on the bench at night. Transients must move out of West LA to find shelter because these benches discourage the homeless from resting on them. In addition, West LA harbors extreme hostile architecture, like the barbed wall in Figure 2. 
+
 ![Barbed Wire is an extreme method to deter the homeless population from congregating in the area](images/Barbed_Wire.jpg)
    {:.image}
 Figure 2: A wall with barbed wire covering the top. This image was found on Santa Monica Blvd. in West Los Angeles.
    {:.caption} 
+
 The wall itself prevents the homeless from finding possible shelter while the barbed wire promises pain for those who try to scale the wall. Many private lots and construction sites have walls similar to this. While Los Angeles provides caring solutions to the homeless problem in the city, West LA can be unsympathetic towards its homeless population and this attitude seems to have spread to the areas public institutions.
 
 West Los Angeles demonstrates its hostility towards the homeless not just in its architecture but also in its public institutions. Because Los Angeles has one of the highest transient populations in the United States, the city council has created several governing bodies to help coordinate efforts to reduce those numbers, such as the Los Angeles Homeless Services Authority (LAHSA). Other organizations, like the Los Angeles Public Library, aid the homeless by providing resources to help the homeless improve their lives. Despite the progress, some West LA public institutions disparage the homeless or fail to provide the assistance the homeless need. For instance, the West Los Angeles Public Library has an unfriendly view on the homeless, as shown below in Figure 3. 
