@@ -13,14 +13,14 @@ desc: "map popup description"
 
    Construction is abundant in Santa Monica, where new buildings are designed to appeal to modern tastes. The first thing to notice when visiting is that many of the buildings are cubical, flashy, and sleek—essentially the new trend in modern architecture. Look no farther than the last stop on the metro expo line, where exiting patrons are welcomed into the city by the cheery yellows of the street pavement and bold blue of the Big Blue Bus parking lot wall. Figure 1 displays various buildings from left to right: the hotel Courtyard by Marriott which can be seen right across from the metro stop, an apartment complex near downtown, and a trendy new home near the beach. All three of these living arrangements are typical of Santa Monica in their square modern fashion with an emphasis on glass and greenery. The sleek building design and green residential areas is contingent upon the residents who have the money and the influence on their neighborhood to demand such an atmosphere. Many neighborhoods in Los Angeles do not have the wealth for trendy homes or the space for carefully trimmed lawns, but Santa Monica is clearly on the opposite end of this spectrum.
      
-![You change this and put in your own Image title](images/schroederbeachbound.jpg)
+![You change this and put in your own Image title](images/schroederbuildings.jpg)
    {:.image}
 Modern architecture. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
    
    In order to keep up with the changing preferences of Santa Monica residents, there is rampant construction in the city. As can be seen in figure 2, Santa Monica has 11 current and 15 proposed construction sites while Long Beach has 10 current and 12 proposed construction sites. Although both cities have similar amounts of construction, Santa Monica has more small scale, likely residential construction sites whereas Long Beach has larger construction projects represented by the large shapes and longer lines of red and green. Larger scale projects are usually taken on by the city and are for public works rather than private residences, which reveals that Santa Monica’s construction is more focused on individual residence and business improvement whereas Long Beach’s construction is more for industry and public good. Recent construction in Santa Monica has yielded modern residences; however, living costs have been increasing at the same time to meet this new standard of housing.
    
-![You change this and put in your own Image title](images/schroederbeachbound.jpg)
+![You change this and put in your own Image title](images/schroederconstruction.jpg)
    {:.image}
 Construction map. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
@@ -29,12 +29,12 @@ The rising housing costs in Santa Monica have defined the predominant race and c
 
 With a largely well-off population in Santa Monica, many public amenities have grown to reflect the majority’s desires. The main streets are a prime walking location with their clean pavement, vividly-colored modern buildings, and the shimmery strip of blue on the horizon. Eventually it becomes apparent that one does not encounter many homeless here. Instead they are concentrated on the outskirts of society, huddled together in a secluded corner of the Big Blue Bus parking lot facing the Santa Monica Freeway and around the entrance of the low cost McDonalds. The reason for this unofficial segregation is the hostile architecture of public resting places. Figure 3 portrays a bench with dividers protruding at intervals so that a maximum of three people can sit at a time. This type of construction functions as a deterrent for homeless people who frequently sleep on public benches. With a lack of comfortable public areas to spend the night, the homeless seek other more accommodating locations, which is one way the community has decided to deal with its homeless population. Another example of architecture that is hostile to homeless is the Big Blue Bus stops shown in figure 4. At each bus stop there are divided seats instead of the benches that frequent other city bus stops, the coverage from umbrella like structures is sparse, and the trash cans nearby prevent tampering with solid coverings with a small hole to insert trash. All of these features dissuade homeless from sleeping at the bus stop by making the environment as uncomfortable as possible with little shelter and no place to lay down. The covered trash cans also prevent homeless from rummaging for food to eat or bottles to recycle for cash. The architecture of public transport stops appeals to the majority demographic in addition to the tourists that the city attracts.
 
-![BEACH BOUND](images/schroederbeachbound.jpg)
+![BEACH BOUND](images/schroedermetrobench.jpg)
    {:.image}
 Metro bench. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
    
-![BEACH BOUND](images/schroederbeachbound.jpg)
+![BEACH BOUND](images/schroederbigbluebus.jpg)
    {:.image}
 BBB. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
