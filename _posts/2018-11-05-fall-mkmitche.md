@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Container Yard"
+title: "Putting the "Art" in the Arts District"
 date: 2018-10-28
 categories: "sustainability" 
 author: "Molly Mitchell"
 lat: 34.043144
 lng: -118.239505
-runningtitle: "Putting the Art in the Arts District"
+runningtitle: "Putting the "Art" in the Arts District"
 desc: "An Analysis of Gentrification and Modernization in Downtown LA's Arts District"
 ---
 It is sometimes hard to believe that LA’s aesthetically pleasing and fashionable Arts District was once a place of hardship, violence, and separation from civilization. What used to be functional warehouses are now disguised with bright and colorful murals that sometimes reflect a critique on society, but also manage to attract people who seek the trendy and ideal instagram feed. The abundance of trendy and overpriced eateries and boutique shops superficially suggests that LA’s Arts District has always been this vibrant. The street art found in Downtown LA’s Arts District is reflective of the community’s ideals and demographics at the time they were created, and also serves as a source of collective identity. As a result, the overall changing aesthetic of the murals parallels and is directly related to the changing atmosphere and demographic of the Arts District. This is due to the recent influx of hip millenials, and is reflective of the gradual process of gentrification in the area. While the gentrification may bring a new crowd to the area, it simultaneously poses a threat to maintaining the authentic identity and historical significance of the Arts District.
