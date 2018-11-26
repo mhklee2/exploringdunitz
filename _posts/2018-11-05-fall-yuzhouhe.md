@@ -10,13 +10,8 @@ runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "South-Central Los Angeles, 3406 11th Avenue"
 ---
 Yuzhou He
-
-Dr. Milstein
-
-WRIT 150 MWF 09:00
-
-Writing Prompt 3
-
+November 28, 2018
+Milstein-WP4
                                                         
                                              All Power to the People
 Staring at the soldiers in front of me, it takes a while to realize they are just a part of a mural. Time has left scratches on the mural, like glory scars on the soldiers’ solemn faces. Decades have passed after their war against injustice, but their voices are still echoing in the air and calling for a better future. They were not only soldiers who protected their community with blood and weapons, but also Black Panthers who served black people through welfare programs. To remember their exceptional contributions to control the fate of black people in their hand, people painted the mural ‘To Protect and Serve’ in South-Central Los Angeles to depict the changes that taken place in the neighborhood. However, the social injustice in the community was not eliminated that easily. Low income and lack of education opportunities led to many problems faced by the African American community during the 1960s and 1970s in South Los Angeles while providing opportunities for the Black Panther Party to thrived; these same demographic factors continue to challenge the community. The black community in South-Central has long been characterized as a group with relatively low income, low living standards, and lack of education opportunities. Today, residents face social injustices like gentrification. When their government and the police could not bring them a stable life and make their life even worse during the mid-1960s, the Black Panther Party found support from the locals and helped reduce the social problems through various programs. The relationship between South-Central and the party is essential for a better understanding of the movement. Though the Black Panther Party was no longer there, the spirit of Black Panthers is inherited by every member of the community. The neighborhood has been facing similar social problems for decades and based on the current demographic facts of the neighborhood, such problems are still going to influence the community. To fight against gentrification, a potential solution is to provide more education opportunities to residents and change the part of the demographics that haven’t fluctuated much for decades.
@@ -50,28 +45,38 @@ The impacts of gentrification brought to South-Central black communities during 
 “All Power to the People!”
 
 
-                                                                 
-
-
-
+                                                                
 
 #### Works cited
 
 {:.bibliography} 
 “A Brief (and by No Means Complete) History of Black Los Angeles. Happy Black History Month!” Amoeblog, www.amoeba.com/blog/2012/01/eric-s-blog/a-brief-and-by-no-means-complete-history-of-black-los-angeles-happy-black-history-month-.html.
+
 Barragan, Bianca. “Historic South-Central Has the Most Crowded Housing in the US.” Curbed LA, Curbed LA, 10 Mar. 2014, la.curbed.com/2014/3/10/10134306/historic-southcentral-has-the-most-crowded-housing-in-the-us.
+
 Chiles, Nick. “8 Black Panther Party Programs That Were More Empowering Than Federal Government Programs.” Atlanta Black Star, 26 Mar. 2015, atlantablackstar.com/2015/03/26/8-black-panther-party-programs-that-were-more-empowering-than-federal-government-programs/4/.
+
 Day, Jennifer Cheeseman., and Andrea Curry. Educational Attainment in the United States: March 1995. Census Bureau, 1996.
 Educational Attainment: March 1970. U.S. Dept. of Commerce, Bureau of the Census, 1970.
+
 “How the Black Panthers' Breakfast Program Both Inspired and Threatened the Government.” History.com, A&E Television Networks, www.history.com/news/free-school-breakfast-black-panther-party.
+
 Isoardi, Steven Louis. The Dark Tree: Jazz and the Community Arts in Los Angeles. University of California Press, 2006.
 Kominski, Robert, and Andrea Adams. Educational Attainment in the United States: March 1991 and 1990. U.S. Department of Commerce, Bureau of the Census, 1992.
+
 Los Angeles Citywide Historic Context Statement. African American History of Los Angeles. preservation.lacity.org/sites/default/files/SurveyLA_AfricanAmericanHCS_09 252017.pdf.
+
 Muhammad, Charlene. “South L.A. Pushes Back Against Gentrification.” L.A. Weekly, 12 Jan. 2018, www.laweekly.com/news/pushing-back-against-gentrification-9055800.
+
 Stewart, Carolyn. “US Census Bureau Publications - Census of Population and Housing.” Census of Population and Housing - Publications - U.S. Census Bureau, 19 Aug. 2011, www.census.gov/prod/www/decennial.html.
+
 “USC Neighbors Face Eviction as Landlords Make Way for 'Rich Kids'.” Capital & Main, 12 Dec. 2017, capitalandmain.com/usc-neighbors-face-eviction-as-landlords-make-way-for-rich-kids-1212.
+
 U.S. Census Bureau (2017). American Community Survey 1-year estimates. Retrieved from Census Reporter Profile page for Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, CA <https://censusreporter.org/profiles/79500US0603751-los-angeles-county-south-central-la-city-south-centralwatts-puma-ca/>
+
 Vigdor, J.L., 2002. Does Gentrification Harm the Poor? Brookings-Wharton Papers on Urban Affairs, 2002(1), pp.133–182.
  “Watts Rebellion (Los Angeles).” Watts Rebellion (Los Angeles) | The Martin Luther King, Jr., Research and Education Institute, 11 Aug. 1965, kinginstitute.stanford.edu/encyclopedia/watts-rebellion-los-angeles.
+ 
 Woocher, Jacob. “Los Angeles Is Quickly Becoming a Place Exclusively for the White and Rich.” KNOCK, KNOCK, 7 Nov. 2017, knock-la.com/los-angeles-is-quickly-becoming-a-place-exclusively-for-the-white-and-rich-c585953e0614.
+
 Zillow, Inc. “South Los Angeles Los Angeles CA Home Prices & Home Values.” Zillow, www.zillow.com/south-los-angeles-los-angeles-ca/home-values/.
