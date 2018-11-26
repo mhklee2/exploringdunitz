@@ -68,6 +68,6 @@ Another attribution and or a quick description for the the image. This image was
 3. Darchen, Sébastien. “Regeneration and Networks in the Arts District (Los Angeles): Rethinking Governance Models in the Production of Urbanity.” Urban Studies, vol. 54, no. 15, Nov. 2017, pp. 3615–3635, doi:10.1177/0042098016669917.
 4. “Earth Crew Mural Dedication.” Lindsey Haley, 1992.
 5. Gerber, Marisa. “Arts District's Changing Landscape Is Worrisome to Longtime Residents.” Los Angeles Times, Los Angeles Times, 29 July 2014, www.latimes.com/local/la-me-arts-district-20140730-story.html.
-6. “Globalangelwings | ABOUT.” The Global Angel Wings Project, The Global Angel Wings Project, www.globalangelwingsproject.com/about.
+6. “Globalangelwings ABOUT.” The Global Angel Wings Project, The Global Angel Wings Project, www.globalangelwingsproject.com/about.
 7. Kudler, Adrian Glick. “Arts District's One Santa Fe to Break Ground This Month.” Curbed LA, Curbed LA, 9 Jan. 2012, la.curbed.com/2012/1/9/10410276/arts-districts-one-santa-fe-to-break-ground-this-month.
 8. The Arts District - Los Angeles Conservancy. LA Conservancy, www.laconservancy.org/sites/default/files/files/documents/ArtsDistrict_Booklet_LR.pdf.
