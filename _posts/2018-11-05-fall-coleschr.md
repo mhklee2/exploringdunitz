@@ -15,14 +15,14 @@ desc: "map popup description"
      
 ![You change this and put in your own Image title](images/schroederbuildings.jpg)
    {:.image}
-Modern architecture. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+Figure 1: Modern design of hotel, apartment, and house in Santa Monica area
    {:.caption} 
    
    In order to keep up with the changing preferences of Santa Monica residents, there is rampant construction in the city. As can be seen in figure 2, Santa Monica has 11 current and 15 proposed construction sites while Long Beach has 10 current and 12 proposed construction sites. Although both cities have similar amounts of construction, Santa Monica has more small scale, likely residential construction sites whereas Long Beach has larger construction projects represented by the large shapes and longer lines of red and green. Larger scale projects are usually taken on by the city and are for public works rather than private residences, which reveals that Santa Monica’s construction is more focused on individual residence and business improvement whereas Long Beach’s construction is more for industry and public good. Recent construction in Santa Monica has yielded modern residences; however, living costs have been increasing at the same time to meet this new standard of housing.
    
 ![You change this and put in your own Image title](images/schroederconstruction.jpg)
    {:.image}
-Construction map. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+Figure 2: Construction maps of Santa Monica and Long Beach. This image was retrieved from [LA Construction Maps](https://www.ladevelopmentmap.com/)
    {:.caption} 
 
 The rising housing costs in Santa Monica have defined the predominant race and class of people living there. In the 1970s, the neighborhood was burdened by “rapidly rising rent levels” after a period of “substantial apartment construction,” so in 1979 renters decided to put a stop to this rapid increase by passing a “local rent control initiative” (Levine, Grigsby & Heskin). While the goal of the rent control ordinance was to protect residents from climbing rent costs, not all residents benefitted equally. After 1979, on average white households spent only 27.5% of their income on rent whereas Latino households spent 37.5% and there were too few black households to have a meaningful sample size (Levine, Grigsby & Heskin). Although rent control fixed the rent in place, rent was already high, and as a result Latino and black households were priced out of the market due to their on average lower income levels. They could not sustainably pay the rent price as easily as the more affluent white families, and over time would be more likely to move out and look for more affordable accommodations. In effect, rent control only aided the better off middle-class white tenants and did not protect the interests of lower income minorities. Housing prices rose by “more than 200%” from 1995 to 2007, compounding the effect of the 1994 Northridge earthquake. The resulting housing deficit displaced more than just ethnic minorities. From 1990 to 2000, Santa Monica registered a 19% decline in people over the age of 60 and a 16% decrease in households earning below the county median income, while the city’s median household income increased by 40% (Kamel). Housing for prospective buyers became even less affordable as prices climbed while housing stock decreased. Meanwhile, many current low-income and elderly residents decided that it would cost more to fix earthquake damages than to move to a more affordable community. Housing cost increases established a hostile market for minorities, lower income groups, and the elderly, much like how the public architecture deters homeless individuals.
@@ -31,12 +31,12 @@ With a largely well-off population in Santa Monica, many public amenities have g
 
 ![BEACH BOUND](images/schroedermetrobench.jpg)
    {:.image}
-Metro bench. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 3: Metro bench at downtown Santa Monica Expo Line Station.
    {:.caption} 
    
 ![BEACH BOUND](images/schroederbigbluebus.jpg)
    {:.image}
-BBB. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 4: Hostile architecture of Big Blue Bus stop seats and trash cans.
    {:.caption} 
 
 Santa Monica’s location and community renovation has established the city as a popular tourist destination which has in turn bolstered its economy. From 2000 to 2004 Santa Monica’s mean beach attendance climbed to 8,832,598 people which represents 6.83% of beach turnout for all of Southern California (Dwight, Brinks, SharavanaKumar, and Semenza). With a multitude of individuals traveling to Santa Monica for its beach, the city has the opportunity to capitalize. However, from the 1970s to the 1980s, the Third Street Mall (now known as the Third Street Promenade) “did not appeal to the new generation” with “old-fashioned,” and “low-end” stores (Pojani). While the beach brought potential customers, the downtown shopping centers did not appeal to beachgoers who were there to enjoy the outdoors. This was a missed opportunity for Santa Monica’s economy and over time the city began to realize it. In 1980s, plans for a new modernized pedestrian mall were put into action and when the construction, planting, lighting, and decoration was complete, the area brought in “five million tourists annually” introducing about “$50 million” into the city’s economy (Pojani). The creation of a modern pedestrian outdoor mall attracted people from all over due to its unique outdoor environment adjacent to the beach. This mall has now increased funding for the community, allowing for more to be spent on sustainability practices and public works. Tourism has created new opportunities, which affects the city atmosphere.
@@ -51,12 +51,12 @@ Santa Monica’s ideals, especially the advancement of youth, show through the a
 
 ![Beach Bound](images/schroederbeachbound.jpg)
    {:.image}
-Beach Bound Image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Figure 5: “Beach Bound” mural depicting a child looking at the ocean.
    {:.caption} 
    
 ![I Am Love](images/schroederiamlove.jpg)
    {:.image}
-I Am Love image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
+Figure 6: "I Am Love" mural depicting children playing at the beach.
    {:.caption} 
    
 Societal issues are a major sector of sustainability that the city addresses. Despite having a fairly wealthy population, Santa Monica’s population includes approximately “2,000 homeless people” residing in the city and about 20% of residents have “annual incomes below the poverty line.” In addition, the south-central area has serious issues involving “gangs, drugs, and crime” (Rogers, Collins-Jarvis, and Schmitz). In 1988, the city set out to correct some of the problems associated with large homeless and low-income populations by implementing the Public Electronic Network (PEN) project. PEN was created to “provide access” to “public information” and “communication technology” especially to the “socioeconomically disadvantaged” (Rogers, Collins-Jarvis, and Schmitz). PEN creates a more informed and interconnected community by granting public access to information and communication systems, thereby promoting civic participation and communication among homeless and low-income residents. This fosters a culture of awareness, knowledge, and open communication in the community. Santa Monica confronts the homeless problem from another angle with “long-term stabilization plans” aiming to help transfer homeless into “permanent housing” and “consistent employment.” As of 2002, 2566 homeless resided in funded shelters and 244 of those had “transitioned to permanent residences” (Bertone, Parry, Kubani, and Wolch). Through homeless aid and other similar programs, the neighborhood reveals its dedication to creating a sustainable and equitable social space by assimilating the homeless into the current culture and lifestyle of the community. Santa Monica plans to create a stable community by helping the socioeconomically disadvantaged climb up in society, which is a very progressive way of thinking. Progressive ideals are embedded in the framework of the community, making societal development a priority.
@@ -66,27 +66,27 @@ Santa Monica is a forward-thinking community focused on many aspects of sustaina
 #### Works cited
 
 {:.bibliography} 
-1. Bertone G., Parry S.C., Kubani D., Wolch J. (2006), Indicators in Action: The Use of Sustainability Indicators in the City of Santa Monica. In: Sirgy M.J., Rahtz D., Swain D. (eds) Community Quality-of-Life Indicators. Social Indicators Research Series, vol 28. Springer, Dordrecht
+1. Abramian, A. (1999, June 2). EXPO-NENTIAL GROWTH. Santa Monica Line.
 
-2. LINE, S. M. (1999). EXPO-NENTIAL GROWTH.
+2. Bertone, G., Parry, S.C., Kubani, D. & Wolch, J. (2006), Indicators in Action: The Use of Sustainability Indicators in the City of Santa Monica. In: Sirgy M.J., Rahtz D., Swain D. (eds) Community Quality-of-Life Indicators. Social Indicators Research Series, vol 28. Springer, Dordrecht
 
-3. M. Dojiri, M. Yamaguchi, S.B. Weisberg, H.J. Lee, Changing anthropogenic influence on the Santa Monica Bay watershed, Marine Environmental Research, Volume 56, Issues 1–2, 2003, Pages 1-14, ISSN 0141-1136, https://doi.org/10.1016/S0141-1136(03)00003-5.
+3. Bird. (2018, November 27). Retrieved from BIRD: https://www.bird.co/
 
-4. Plott, C. (2000), Market stability: backward‐bending supply in a laboratory experimental market. 1999 Presidential address Western Economic Association. Economic Inquiry, 38: 1-18. doi:10.1111/j.1465-7295.2000.tb00001.x
+4. Blake Alexander Real Estate, (Photograph). (n.d.). Los Angeles Development Map [digital image]. Retrieved from https://www.ladevelopmentmap.com/
 
-5. Ryan H. Dwight, Mitchell V. Brinks, Gajapathi SharavanaKumar, Jan C. Semenza (2007), Beach attendance and bathing rates for Southern California beaches, Ocean & Coastal Management, Volume 50, Issue 10, 2007, Pages 847-858, ISSN 0964-5691, https://doi.org/10.1016/j.ocecoaman.2007.04.002. 
+5. Dojiri, M., Yamaguchi, M., Weisberg, S.B. & Lee, H.J. (2003), Changing anthropogenic influence on the Santa Monica Bay watershed, Marine Environmental Research, Volume 56, Issues 1–2, 2003, Pages 1-14, ISSN 0141-1136, https://doi.org/10.1016/S0141-1136(03)00003-5.
 
-6. Nabil Kamel (2011), The actualization of neoliberal space and the loss of housing affordability in Santa Monica, California, Geoforum, Volume 43, Issue 3, 2012, Pages 453-463, ISSN 0016-7185, https://doi.org/10.1016/j.geoforum.2011.10.005.
+6. Dwight, R.H., Brinks, M.V., SharavanaKumar, G. & Semenza, J.C. (2007), Beach attendance and bathing rates for Southern California beaches, Ocean & Coastal Management, Volume 50, Issue 10, 2007, Pages 847-858, ISSN 0964-5691, https://doi.org/10.1016/j.ocecoaman.2007.04.002. 
 
-7. Ned Levine, J. Eugene Grigsby III & Allan Heskin (1990), Who Benefits from Rent Control? Effects on Tenants in Santa Monica, California, Journal of the American Planning Association, 56: 2, 140-152, DOI: 10.1080/01944369008975755
+7. Kamel, N. (2011), The actualization of neoliberal space and the loss of housing affordability in Santa Monica, California, Geoforum, Volume 43, Issue 3, 2012, Pages 453-463, ISSN 0016-7185, https://doi.org/10.1016/j.geoforum.2011.10.005.
 
-8. Pojani, D. (2008), Santa Monica's Third Street Promenade: the failure and resurgence of a downtown pedestrian mall. Urban Des Int 13: 141. https://doi.org/10.1057/udi.2008.8
+8. Levine, N., Grigsby, J.E. III & Heskin, A. (1990), Who Benefits from Rent Control? Effects on Tenants in Santa Monica, California, Journal of the American Planning Association, 56: 2, 140-152, DOI: 10.1080/01944369008975755
 
-9. Rogers, E. M., Collins‐Jarvis, L. and Schmitz, J. (1994), The PEN project in Santa Monica: Interactive communication, equality, and political action. J. Am. Soc. Inf. Sci., 45: 401-410. doi:10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N
+9. Plott, C. (2000), Market stability: backward‐bending supply in a laboratory experimental market. 1999 Presidential address Western Economic Association. Economic Inquiry, 38: 1-18. doi:10.1111/j.1465-7295.2000.tb00001.x
 
-10. https://www.bird.co/
+10. Pojani, D. (2008), Santa Monica's Third Street Promenade: the failure and resurgence of a downtown pedestrian mall. Urban Des Int 13: 141. https://doi.org/10.1057/udi.2008.8
 
-11. https://www.census.gov/quickfacts/santamonicacitycalifornia
+11. Rogers, E. M., Collins‐Jarvis, L. & Schmitz, J. (1994), The PEN project in Santa Monica: Interactive communication, equality, and political action. J. Am. Soc. Inf. Sci., 45: 401-410. doi:10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N
 
-12. https://www.ladevelopmentmap.com/
+12. United States Census Bureau. (2018, November 27). Quick Facts Santa Monica city, California. Retrieved from Census: https://www.census.gov/quickfacts/santamonicacitycalifornia
 
