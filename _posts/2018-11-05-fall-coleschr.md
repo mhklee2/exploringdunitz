@@ -7,7 +7,7 @@ author: "Cole Schroeder"
 lat: 34.0149536
 lng: -118.5007239
 runningtitle: "Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals."
-desc: "map popup description"
+desc: "Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals."
 ---
    Earth consists of a complex web of interconnected physical, chemical, and biological processes that form a balance of creation and destruction. Every organism and every community plays its part in an intricate and delicate game of balance. Santa Monica, a coastal city in Southern California, is especially attuned to this balance not only for the environment but also for the community culture. Santa Monica’s largely white middle class demographic shapes and is shaped by the culture of the neighborhood through modern architecture, recreational and innovative industry, and progressive ideals. New buildings appeal to modern middle-class tastes, which in addition to rising costs, stabilizes the white middle class demographic as the majority in the community and creates a hostile environment for the homeless. The city’s location and sustainable practices attract tourism and innovation, generating economic growth while curtailing economic diversity. Ecological programs, social projects, and youth-centered art demonstrate the progressive, forward thinking ideals of the community.
 
