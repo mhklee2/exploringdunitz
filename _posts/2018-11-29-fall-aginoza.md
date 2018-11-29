@@ -37,12 +37,12 @@ To add an image you will use an exclamation point, then a description in bracket
 2017 Census Data that demonstrates how Koreans do not make up the majority of the population
    {:.caption}
  
-![Mural located in the metro station can only be interacted with from a distance](images/metro mural.JPG)
+![Mural located in the metro station can only be interacted with from a distance](images/metro mural 2.JPG)
    {:.image}
 Mural located in the metro station can only be interacted with from a distance
    {:.caption}
 
-![Sign containing Korean and Spanish message without any English in sight. Photograph taken by koreasigns.com](images/metro mural 2.jpg)
+![Sign containing Korean and Spanish message without any English in sight. Photograph taken by koreasigns.com](images/korea town sign.jpg)
    {:.image}
 Sign containing Korean and Spanish message without any English in sight. Photograph taken by koreasigns.com
    {:.caption}
