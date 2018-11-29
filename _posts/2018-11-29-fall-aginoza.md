@@ -27,6 +27,7 @@ All-you-can-eat Korean barbecue, nightclubs, and a plethora of boba shops are ve
 
    Koreatown’s humble beginnings started with the immigration of Korean plantation workers from Hawaii to California. The Koreans’ Christian roots ultimately led to the formation of Korean Christian Churches as the central hub of Koreatown. Over time, a steadily growing population and increasing urbanization caused an alteration in Koreatown’s demographics and sowed the seeds of gentrification in the realtor and transit sectors. Gentrification also heavily decreased the number of public art works in Koreatown while the signage evolved and reflected its true inhabitants. Despite appearing “Korean” upon a perfunctory glance, Koreatown is home to an extremely diverse population, a bustling urban center overcome by gentrification, and a varied art environment. Boba shops at every corner and all-you-can-eat anything are only a small fraction of what Koreatown truly is. Koreatown remains an integral part of Los Angeles although its abundance of commercial outlets that appeal to the late teen and early to mid-twenties demographic mask its true identity.
  
+Word Count (2351)
 
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
@@ -43,6 +44,18 @@ To add an image you will use an exclamation point, then a description in bracket
 #### Works cited
 
 {:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
+Aron, H. (2017, April 04). Koreatown Is About to Get Even More Crowded. Retrieved November 28, 2018, from https://www.laweekly.com/news/koreatown-is-about-to-get-even-more-crowded-7916586
+
+Givens, H. L. (1939). The Korean Community in Los Angeles(Master's thesis, University of Southern California, 1939) (pp. 1-91). Los Angeles: University of Southern California.
+
+Myung, J. (2015). Values-Based Approach to Heritage Conservation: Identifying Cultural Heritage in Los Angeles Koreatown(Master's thesis, University of Southern California, 2015) (pp. 1-112). Los Angeles: USC School of Architecture.
+
+Park, K., & Kim, J. (2008). The Contested Nexus of Los Angeles Koreatown: Capital Restructuring, Gentrification, and Displacement. Amerasia Journal,34(3), 126-150. doi:10.17953/amer.34.3.d03g386u007n286w
+
+Red Line. (2018). Retrieved November 28, 2018, from https://www.metro.net/riding/paid_parking/red-line/
+
+Rosenthal, T. J. (2018, February 20). Transit-oriented development? More like transit rider displacement. Retrieved November 28, 2018, from https://www.latimes.com/opinion/op-ed/la-oe-rosenthal-transit-gentrification-metro-ridership-20180220-story.html
+
+Shin, L. (1971). Koreans In America, 1903-1945. Amerasia Journal,1(3), 32-39. doi:10.17953/amer.1.3.g38n65792w5rh5m1
+
+U.S. Census Bureau (2017). American Community Survey 1-year estimates. Retrieved from Census Reporter Profile page for Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, CA<https://censusreporter.org/profiles/79500US0603733-los-angeles-county-centralla-city-centralkoreatown-puma-ca/>
