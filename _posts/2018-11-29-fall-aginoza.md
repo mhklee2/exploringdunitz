@@ -29,9 +29,7 @@ All-you-can-eat Korean barbecue, nightclubs, and a plethora of boba shops are ve
  
 Word Count (2351)
 
-To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-   
-   
+Images   
 ![2017 Census Data that demonstrates how Koreans do not make up the majority of the population](images/census data.JPG)
    {:.image}
 2017 Census Data that demonstrates how Koreans do not make up the majority of the population
