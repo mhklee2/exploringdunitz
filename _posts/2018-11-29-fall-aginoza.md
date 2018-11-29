@@ -29,7 +29,8 @@ All-you-can-eat Korean barbecue, nightclubs, and a plethora of boba shops are ve
  
 Word Count (2351)
 
-Images   
+Images
+
 ![2017 Census Data that demonstrates how Koreans do not make up the majority of the population](images/census data.JPG)
    {:.image}
 2017 Census Data that demonstrates how Koreans do not make up the majority of the population
