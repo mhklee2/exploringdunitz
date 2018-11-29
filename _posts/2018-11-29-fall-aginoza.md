@@ -38,7 +38,7 @@ To add an image you will use an exclamation point, then a description in bracket
 ![Mural located in the metro station can only be interacted with from a distance](images/metro mural.JPG)
    {:.image}
    
-![Sign containing Korean and Spanish message without any English in sight. Photograph taken by koreasigns.com](images/korea town sign.jpg)
+![Sign containing Korean and Spanish message without any English in sight. Photograph taken by koreasigns.com](images/metro mural 2.jpg)
    {:.image}
    
 #### Works cited
