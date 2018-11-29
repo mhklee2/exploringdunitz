@@ -63,41 +63,6 @@ Word Count: (2856 Words)
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
    
-![You change this and put in your own Image title](images/JuliusKoolPicture.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.Figure 4: Wilshire Western Train Station (Depicting Latino Population)} 
-
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/Koreatown's demographics.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.Figure 2: Census Data 2018( Pre-dominance of the young populous and Latino Generation)} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/ktown urban construction projects.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/Urban Construction Display(Red Pins).jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.Figure 1: Projects Taking Over Koreatown(The Neighborhood's Development Boom)}
-
-
-![You change this and put in your own Image title](images/Korean Retail Center Sign.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.Figure 3: Na Sung Plaza (Korean Retail Center)}
-Here is the end of your essay!
 
 #### Works cited
 
