@@ -3,11 +3,11 @@ layout: post
 title: "Venice Lifestyle"
 date: 2018-10-28
 categories: "sustainability" 
-author: "YOUR NAME GOES HERE"
+author: "Ryan Lee"
 lat: 33.9996122
 lng: -118.2918727
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "Venice is a divided beach community that promotes white affluence and pushes out poorer minorities; the drive toward superiority is made evident in the town’s history, demographics, and environment."
 ---
 Before seeing Venice as "The Beverly Hills of the Ocean," the struggle that minorities faced when the town was founded and decades afterwards is crucial to understanding the community's racial development today.  From Venice’s historical problems, it is apparent why the town became famous and modernized the way it has.  Venice is a divided beach community that promotes white affluence and pushes out poorer minorities; the drive toward superiority is made evident in the town’s history, demographics, and environment.  Historically, resources, gang violence, and income change have all led to the gentrification of minorities in Venice while demographics of race and migration illustrate the racial component of White superiority.  The community's wealthy versus poor neighborhoods are reflected by commercial infrastructure, street art, and citizen responses to Venice’s development.
 
