@@ -36,7 +36,7 @@ The Korean values of the city no longer take precedence and are overshadowed by 
 
 
 Due to its inability to be defined as a result of cross-cultural interactions, Koreatown, is representative of a transnational borderline between the United States and Korea. In discussing Koreatown’s notion of culture, the city’s identity from its perspective of transnational formation becomes evaluated. Located in the United States, Koreatown can’t be identified as an extension of Korean sovereignty, yet a farther reach is claiming the town as representative of the United States.  Koreatown, a multiracial community, is divergent though “the majority of businesses are Korean, the majority of the population is Hispanic, and the politics is mainly controlled by whites and blacks” (Koh 2007). Contrasting race and ethnicity, Koreatown departs from the norm, generating a melting pot of cultural values and ideals. The neighborhood, through its transnational elements, encourages individuals to migrate to the area for a fresh start. By examination of Koreatown’s demographics, a disparity is highlighted juxtaposing the label of “Koreatown” and its deviated population distribution:
-
+![You change this and put in your own Image title](images/Koreatown's demographics.jpg)
 
 
 
