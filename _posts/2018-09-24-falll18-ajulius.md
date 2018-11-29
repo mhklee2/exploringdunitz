@@ -52,14 +52,6 @@ little to no Korean values:
 
 Rather, the murals located at Wilshire Western train station, at the heart of Koreatown, represent the Latino population. The mural exhibits strength, determination, and tireless effort in the faces depicted, representative of fundamental Korean values that still encapsulates the identity of Koreatown. While Koreatown’s identity is hardly discerned as Korean, the area will always remain as a haven for people, including immigrants, as a starting off or rebounding point in life. Even with this loss of the old Korean identity, Koreatown signs and street symbols still remain, as the Korean community doesn’t want to completely alienate the old Korean ways and portray the abandonment of the only place that gave them an opportunity.		Koreatown, representative of the Los Angeles Metropolis, experiences ethnic diversity depicted by the departure of the affluent Korean Americans and the influx of the “Millennial” generation. The advancement of urban landscape and the loss of Korean murals, ultimately, leads to the diffusion of Korean culture. The unique path of Koreans establishing themselves in the United States, advances the creation of the identity of Koreatown from strict Korean values to a melting pot of beliefs. Koreatown, once a one-dimensional affair, now exhibits the epitome of the promotion of cultural heterogeneity. A neighborhood is defined by the thoughts of the people, the awareness of food, and the symbolism personified by the traits of the inhabitants. Thus, prospective Korean residents, aspired to improve their socio-economic status, exploit Koreatown’s alluring business opportunities as a wish to eventually depart and live a better life elsewhere. Shaped by the heterogeneous populous and adapting infrastructure, the customary microcosm resembles that of an Angelino metropolis mecca. At the center of this mecca, exists the evolving food scene, illustrating its own story, attracting all people of all cultures. 
 Word Count: (2856 Words) 
-
-
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
-
-Formating is very simple in this document. 
-
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
    
