@@ -2,12 +2,12 @@
 layout: post
 title: "Droplets of North Hollywood"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "suburbia" 
 author: "Julia Davis"
 lat: 34.1870
 lng: -118.3813
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "North Hollywood"
+desc: "North Hollywood, a neighborhood located in the famed Los Angeles County, is a thoroughly suburban community as seen through its socioeconomic, educational, and racial makeup."
 ---
 Imagine you are standing on a cliff looking out at the seemingly endless ocean. Unless you have a Ph.D. in Chemistry, you’re naturally inclined to perceive it as a whole rather than the sum of millions of water droplets, as they all blend together.  Suburbs, seas of residences in their own right, mimic the very same principle. Although an area’s identity as such is dependent on many demographic factors, people tend to imagine a suburb as the stereotypical picture-perfect community of the 1950’s. In spite of this, understanding the demographic factors that constitute a suburb is fundamental to grasping the true nature of any area dubbed a “suburb.” North Hollywood, a neighborhood located in the famed Los Angeles County, is a thoroughly suburban community as seen through its socioeconomic, educational, and racial makeup. Due to the exodus of the middle class from central Los Angeles and the rise in residential buildings in the outskirts of the bustling city, the community of North Hollywood (NoHo) grew and became an increasingly popular place to live. Families specifically were attracted to the predominantly residential community because of the impressive quality and quantity of schools and educational opportunities. Assimilation is a challenge when many new people move into a neighborhood as locals may be unwelcoming and seen to throw racist remarks towards those perceived as outsiders; in attempts to fight the adversity towards diversity and bring unity to the neighborhood, community members have implemented group collaborative projects to bring the community together.
  
