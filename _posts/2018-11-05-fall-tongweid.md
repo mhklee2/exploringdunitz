@@ -2,12 +2,12 @@
 layout: post
 title: "University Park: a Neighborhood of Diversity and its Struggles"
 date: 2018-10-26
-categories: "sustainability" 
+categories: "polycultural" 
 author: "Tongwei Dai"
 lat: 34.031937
 lng: -118.283974
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "University Park"
+desc: "University Park's cultural richness is a product of social and economic changes in the past century. The neighborhood has been enjoying the vast possibilities that the University of Southern California brings in its investment in the revitalization of the neighborhood. However, the underlying wealth disparity and subsequent issues within the community still loom large when demographic and economic changes promise the betterment of a community with a frail economic foundation."
 ---
 Not many would think of University Park as their first destination of travel when there are more reported hold-ups near the prominent Shrine Auditorium than the events happening in it, and when there are more negative reviews about air conditioning in a Victorian-era house than the publicity of the lively cultural atmosphere surrounding it. Indeed, it can be hard for an outsider to discern the inherent cultural and historical diversity of the University Park neighborhood through its blemish regarding crime and poverty. In fact, its cultural richness is a product of social and economic changes in the past century. The neighborhood has also been enjoying the vast possibilities that the University of Southern California brings in its investment in the revitalization of the neighborhood. However, the underlying wealth disparity and subsequent issues within the community still loom large when demographic and economic changes promise the betterment of a community with a frail economic foundation.
 
