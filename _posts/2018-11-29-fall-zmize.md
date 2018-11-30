@@ -17,21 +17,21 @@ A community is something that exists in almost every area of the world. It can b
 
 ![Houses with minimal security](images/houses.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Pictured are houses in North Hollywood where bars over windows are uncommon due to the shared sense of safety across the community.
    {:.caption} 
 
  ![No bars and small, decorative fencing](images/older house.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+A home in North Hollywood that contains a short fence which is not meant for protection necessarily, rather it is more for aesthetic design.
    {:.caption} 
    
 
 As resulted by suburban lifestyle, the minds of North Hollywood’s residents have been impacted with a communal sense of protection. Through lower crime and a small negative atmosphere as a result of safety, a sense of community is able to strongly exist and thrive within the city. Because of this, North Hollywood’s community contributes to a positive reputation for the city, further encouraging the community within to grow. 
  “Community” is not just an empty term. Rather it is something that can physically be seen through the various aspects of the suburban neighborhood. Recreation centers and parks line the neighborhood where residents are able to freely attend year-round. Instead of clashing against each other, ethnicities are able to blend and coexist together as seen by shopping plazas with Greek, American, Hispanic, and Asian shops as well as various religious churches existing in close relation to one another. As Ama Otet, a resident and real estate philanthropist describes it, North Hollywood consists of a "mixture of long-time residents, recent immigrants, and a steady influx of writers, artists, actors, filmmakers, and musicians" (Otet 2). This cooperating blend amongst the amenities of the neighborhood serves as physical proof of a thriving community despite ethnic and background differences. 
 
-![Houses with minimal security](images/houses.jpg)
+![stores and restaurants.jpg](images/houses.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+Demonstrated above is a sign for a shopping plaza where stores of different cultral backrounds exist which help to captivate the idea of successful cultural assimulation within North Hollywood.
    {:.caption} 
  
  Admittedly, recreation centers, parks, culturally diverse shopping plazas, and various religion churches close in proximity are all things that exist amongst some city life and most likely within Los Angeles. In fact, Los Angeles is well known for its recreational and social options it provides (Pitt 2). However, the interaction, and thus the community formed is much different. Due to a smaller population existing in a less dense area, more regular interactions are able to occur from suburban life. Cities are often heavily populated and constricted by traffic meaning familiar faces are less frequently seen and lasting, genuine relationships that exist within a strong community are harder to form. Communities that wish to require desirable social interaction amongst its participants where emotional connections, and thus a sense of true community, can form (Makes 1). These interactions and emotional connections can prove to be harder to form due to the busy, stressful city environment, making community less achievable outside of suburban life. The community within North Hollywood is not congested with large amounts of traffic and is relatively lowly populated as compared to the city of Los Angeles. Thus, the community is not constricted and is able to grow through the genuine, regular interactions that come with North Hollywood’s suburban life. 
