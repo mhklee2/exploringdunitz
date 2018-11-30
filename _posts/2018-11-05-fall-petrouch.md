@@ -57,23 +57,22 @@ Santa Monica is a very caring Liberal city that does well for itself financially
 
 #### Works cited
 
-Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa	 	Monica City Hall.” Santa Monica Daily Press, 20 Apr. 2018, 					www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-	santa-monica-city-hall/165646.
+Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa	 	Monica City Hall.” Santa Monica Daily Press, 20 Apr. 2018, www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-	santa-monica-city-hall/165646.
 
-“Census Profile: Santa Monica, CA.” Census Reporter, 2017, 					censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
+“Census Profile: Santa Monica, CA.” Census Reporter, 2017, censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
 
-“Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa 		Monica, 4 Oct. 2018,										www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
+“Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa Monica, 4 Oct. 2018,										www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
 
-Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa 		Monica, CA Patch, Patch, 8 Aug. 2017,								patch.com/california/santamonica/how-does-smmusd-compare-school-districts-		nationwide.
+Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa 		Monica, CA Patch, Patch, 8 Aug. 2017,								patch.com/california/santamonica/how-does-smmusd-compare-school-districts-nationwide.
 
-Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9		Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-with-race-incident/.
+Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9 Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-with-race-incident/.
 
 Petrouchin, Walter. “Santa Monica - Liberal or Not?” 28 Oct. 2018.
 
-Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive 				Communication, Equality, and Political Action.” The Canadian Journal of 			Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
+Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive Communication, Equality, and Political Action.” The Canadian Journal of Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
 /pdf/10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N.
 
-Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los 		Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-angeles-tech		
--neighborhood-guide-santa-monica.
+Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-angeles-tech	-neighborhood-guide-santa-monica.
 
-“SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica 		College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-Spot-In			-Transfers-to-UC.aspx.
+“SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-Spot-In-Transfers-to-UC.aspx.
 
