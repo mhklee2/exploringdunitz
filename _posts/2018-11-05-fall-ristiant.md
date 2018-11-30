@@ -7,7 +7,7 @@ author: "Zasca Ristianto"
 lat: 34.0173199
 lng: -118.2804932
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "Mercado La Paloma"
+desc: "Located in University Park, an area plagued by gentrification, Mercado La Paloma self-markets as a refuge from said gentrification; however, the marketplace exemplifies it."
 ---
 
 The relationship between my all-girls high school, Hockaday, and its all-boys counterpart, St. Mark’s, was the most problematic part of my high school experience. Especially recently, the toxicity of the Hockaday-St. Mark’s relationship has been underscored in our brother school’s constant disregard for rape culture and the gravity of sexual assault. This mindset conflicts with Hockaday’s mission, girl empowerment, indicating that the relationship is obsolete; however, Hockaday values its pristine image too highly to cut ties. This emphasis on perception, despite reality, plagues Los Angeles as well. Located in University Park, an area plagued by gentrification, Mercado La Paloma self-markets as a refuge from said gentrification; however, the marketplace exemplifies it. Gentrification in the neighborhood continues to rise: housing prices skyrocket, causing low-income residents to be displaced. Moreover, Mercado La Paloma promotes itself as a sanctuary from gentrification, illustrated by its mission statement, mural, choice of vendors and restaurants, and interior décor. Lastly, diverging from its image, the marketplace’s restaurants target the primarily white middle class, the crowd it ultimately attracts, and excludes cheaper vendors—typifying gentrification. 
@@ -24,16 +24,19 @@ The mural located on the back of Mercado La Paloma likens the market to a Hellen
      
 ![Figure 1: Columns](images/Ristianto_Columns.jpg)
    {:.image}
+   
 Figure 1: Greco-Roman columns framing the Mercado La Paloma mural
    {:.caption} 
    
-![Figure 2: Virgin Mary](images/Ristianto_Virgin_Mary.jpg)
+![Figure 2: Virgin Mary](images/Ristianto_Virgin_Mary.JPG)
    {:.image}
+   
 Figure 2: Woman paints mural of Virgin Mary
    {:.caption} 
    
-![Figure 3: Rugrats](images/Ristianto_Rugrats.jpg)
+![Figure 3: Rugrats](images/Ristianto_Rugrats.JPG)
    {:.image}
+   
 Figure 3: Contemporary Rugrats t-shirt
    {:.caption} 
      
@@ -41,18 +44,21 @@ The choice of vendors and restaurants in the market is methodical, meant to conv
      
 The décor of Mercado La Paloma reinforces its portrayal as a multicultural neutral zone. Though the decoration may seem haphazard and heterogenous at first, certain themes connect all of the design choices, which were very deliberate. The dove is an example of such a deliberate image repeated throughout the interior and the exterior of the Mercado. This image echoes the name of the market itself, as paloma means dove in Spanish, and can be found carved into the sidewalk (Figure 4), painted on the tables, and featured on the market’s logo. Because the dove connotes peace, the symbol was most likely repeated throughout the venue to communicate the idea that the market is a safe place, away from the gentrification war that plagues University Park. The market, in addition to being covered with doves, is bursting to the seams with color. The tables boast decorative, painted tiles (Figure 5), the walls are painted in bright colors such as red, yellow, and orange, and strings of multicolored papel picado decorate the front of Oaxacalifornia. Upon analysis, it seems probable that this spectrum of colors was chosen to parallel the spectrum of cultures, food, vendors, and people represented in Mercado La Paloma. Finally, one of the most prominent art pieces in the venue was the display by Piece by Piece, a social enterprise that does mosaic work with people transitioning out of homelessness. The display consists of an amalgamation of small mosaic art pieces, quotes from participants and volunteers, and pictures of participants making mosaics (Figure 6). Not only does the mix of art pieces, photos, and quotes emphasize the socially conscious efforts of the Mercado, but it also reinforces the concept of diversity the venue tries so hard to emphasize—just like the medley of glass pieces that make up a mosaic.
 
-![Figure 4: Dove](images/Ristianto_Dove.jpg)
+![Figure 4: Dove](images/Ristianto_Dove.JPG)
    {:.image}
+   
 Figure 4: Dove carved into side walk at the Mercado
    {:.caption} 
 
-![Figure 5: Painted Tiles](images/Ristianto_Tiles.jpg)
+![Figure 5: Painted Tiles](images/Ristianto_Tiles.JPG)
    {:.image}
+   
 Figure 5: Painted tiles on the tables of the market
    {:.caption} 
    
-![Figure 6: Piece by Piece](images/Ristianto_Piece_By_Piece.jpg)
+![Figure 6: Piece by Piece](images/Ristianto_Piece_By_Piece.JPG)
    {:.image}
+   
 Figure 6: Piece by Piece display
    {:.caption} 
 
@@ -83,5 +89,7 @@ Sequiera, K. (2017, October 5). Youth From South Los Angeles and Boyle Heights S
 Understand Food Insecurity. (2018). Retrieved from https://hungerandhealth.feedingamerica.org/understand-food-insecurity/
 
 Velez, J. (2015, May 6). Report: As USC student housing increases, affordable housing harder to find for residents. Retrieved from https://www.scpr.org/news/2015/05/06/51377/south-la-housing-affected-by-usc-growth-report-say/
+
+
 
 
