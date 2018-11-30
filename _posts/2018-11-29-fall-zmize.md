@@ -2,12 +2,12 @@
 layout: post
 title: "An Unexpected Yet Influential Culture "
 date: 2018-11-29
-categories: "sustainability" 
+categories: "Suburbia" 
 author: "Zachary Mize"
 lat: 34.1793389
 lng: -118.414553
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "this is the map popup text"
+desc: "North Hollywood is a suburban neighborhood where the suburban culture has come to shape its residents’ lifestyles and perspectives by engaging them with interaction and a sense safety, providing economic and social differences from city life, and allowing for space and optimism that come from living in a suburban area." 
 ---
 For many, it is hard to conceptualize living in history from nearly seven decades ago. In fact, more than half of the United States population, including myself, have lived or are currently living in such history. Since World War II, suburban neighborhoods have come to exist all across America and are continuing to grow at a fast rate. Until age eight, I partook in this history by growing up in Nichols Hills, Oklahoma, a city boarding Oklahoma City that fits nearly perfectly into the category of a suburban neighborhood. Around 1300 miles away exists a city that mirrors Nichols Hills in that it too is a suburban area bordering a large, nationally known city. Northern Hollywood is a suburban neighborhood where the suburban culture has come to shape its residents’ lifestyles and perspectives by engaging them with interaction and a sense safety, providing economic and social differences from city life, and allowing for space and optimism that come from living in a suburban area. Through things such as lower crime and cultural interaction, North Hollywood is able to form a sense of community that may not form as easily within cities. Suburban lifestyle, specifically in North Hollywood, differs from city life economically through cheaper property and accessible amenities as well as socially through more regular, genuine interaction. It is because of all these things as well as the space that comes from living in a suburban area that a sense of ease and optimism is able to exist among North Hollywood’s residents.
 
