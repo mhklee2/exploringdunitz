@@ -6,6 +6,9 @@ categories: "sustainability"
 author: "Ryan Lee"
 lat: 33.9996122
 lng: -118.2918727
+author: "YOUR NAME GOES HERE"
+lat: 33.9843046
+lng: -118.4662015
 runningtitle: "this is just the title at the top, no need to do anything here"
 desc: "Venice is a divided beach community that promotes white affluence and pushes out poorer minorities; the drive toward superiority is made evident in the town’s history, demographics, and environment."
 ---
