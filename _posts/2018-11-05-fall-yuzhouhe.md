@@ -2,7 +2,7 @@
 layout: post
 title: All Power to the People
 date: 2018-11-5
-categories: "sustainability" 
+categories: "gentrification" 
 author: Yuzhou He
 lat: 34.0253376
 lng: -118.3313322,17
@@ -42,6 +42,7 @@ none of those objections stopped Noni from painting this mural. Instead, they sh
 
 
                                                                 
+
 
 Works cited
 {:.bibliography} 
