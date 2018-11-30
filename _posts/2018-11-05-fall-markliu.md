@@ -2,11 +2,12 @@
 layout: post
 title: "South Central: The SChool of Hard Knocks"
 date: 2018-11-29
-categories: "sustainability" 
+categories: "race" 
 author: "MARK LIU"
 lat: 34.0256117
 lng: -118.32933270000001
 runningtitle: "this is just the title at the top, no need to do anything here"
+desc: "It eventually became evident that the process by which racial tension and the constant threat of gentrification shape social change is integral to understanding the struggle of minorities and the poverty stricken in South Central Los Angeles."
 ---
 While visiting the University of Southern California (USC) for the first time, the contrast between the surrounding neighborhood and the campus shocked me. Despite hearing stories about the dilapidated nature of the area, it was unbelievable to me that such enormous disparities in socio-economic status could occur within a mere two blocks of each other. It eventually became evident that the process by which racial tension and the constant threat of gentrification shape social change is integral to understanding the struggle of minorities and the poverty stricken in South Central Los Angeles. Residual tension from the Jim Crow Era and a confrontational relationship between law enforcement and minority communities exploded into racially charged riots that threatened to rip the area apart. Additionally, looming gentrification has and will continue to impact a community disproportionately afflicted with higher rates of poverty and plagued by lower rates of education. It has been the goal of numerous organizations to mitigate the effects that the aforementioned issues have on the residents of the region. 
 
