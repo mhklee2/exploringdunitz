@@ -22,8 +22,8 @@ Making a City: West Los Angeles
 
 ![Los Angeles Homeless Population Grapg](images/Graph.png)
    {:.image}
-see see
-   {:.Graph comparing the decrease in the homeless population in West Los Angeles (Pink Line) to the increase in other neighborhoods in Los Angeles} 
+Graph comparing the decrease in the homeless population in West Los Angeles (Pink Line) to the increase in other neighborhoods in Los Angeles
+{:.} 
 
 A drop of 115 homeless persons cannot be considered progress in a community because these individuals did not overcome homelessness by reestablishing themselves in society; they simply moved to another neighborhood that offered a better environment for them. In another article written by Julianne Tveten, she referenced an interview conducted with a man, Adam Smith, concerning hostile architecture and homeless people. Smith tells the story of a group of homeless people whose camp became uninhabitable after a private company placed standalone planters where a homeless group previously set up camp, “That next day, after I saw [the planter boxes] for the first time, I went there to look around because I figured they were sleeping somewhere else. I found people up around the corner, just, like, a block away” (“No Walk in the Garden for the Urban Homeless”). This story further proves West Los Angeles intends on avoiding the problem of displaced individuals rather than working with the homeless population to find a solution beneficial to society, because they can afford to. It is important to realize that private organizations and individuals are also taking a part in creating landscapes that discriminate against the homeless, meaning it is a common goal, as a whole of West Los Angeles, to displace the homeless. It is common knowledge that the existence of homeless individuals is perceived as detrimental to the overall quality of that neighborhood as unsafe, ghetto, and poor. The issue arises, however, when a community cannot agree on the best solution to the problem at hand; many individuals desire the removal of displaced people out of convenience for themselves by avoiding the burden of help them regain self-sufficiency, both which will improve the community but not the greater Los Angeles area.
 
@@ -33,8 +33,8 @@ A drop of 115 homeless persons cannot be considered progress in a community beca
 
 ![Office Building in West Los Angeles](images/LAMural_Borgatello.jpg)
    {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.Renovated office building in an expensive district in West Los Angeles with expensive cars in the parking lot.} 
+Renovated office building in an expensive district in West Los Angeles with expensive cars in the parking lot
+   {:..} 
    
 The contrasting elements in this picture—the expensive foreign cars and the older refurbished building—are evidence of West Los Angeles’ history and current state. West Los Angeles culture has come to appreciate older rustic architecture, like the factories that are now film studios, and have worked to fix and maintain their appearances. As West Los Angeles becomes a safer and more beautiful community, other elements also follow, resulting in an ideal living area if affordable to the individual.   
    The demographics of West Los Angeles have recently become predominantly people with a higher education, single, and wealthy. This change can possibly be explained through a subtle campaign to push out ethnic and lower-class people. Los Angeles has a historical culture of being ethnically and economically diverse, with these groups being divided into neighborhoods throughout the city. West Los Angeles used to, up until the late 20th century, predominantly include an ethnic and poorer population, which is consequently related to education levels. According to census data, West Los Angeles’ percentage of citizens above 24 with a four-year degree is 60.4%, almost double the national average at 33.4%. The high rate of education these individuals earned is another factor that contributed to the revitalization of West Los Angeles. Coincidingly, with higher education average income also increases, and West Los Angeles’ average is 1.5 times greater the national. West Los Angeles’s shift from being a blue collar to an educated professional workforce within a span less than thirty years is rapid change and shows the determination the community possesses. Moreover, these statistics are not changing because current members are deciding to get a degree and a better paying job, but due to the people leaving and entering the community. As these new types people emigrate the values of the community change. 
@@ -42,8 +42,8 @@ American culture and society values family, but trends indicate that as societie
    
 ![You change this and put in your own Image title](images/Apartments.jpg)
    {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.New luxury apartment building in West Los Angles to meetdemand for small households.} 
+New luxury apartment building in West Los Angles to meetdemand for small households
+   {:..} 
 
 This building was built out of demand for more housing in the community. The fact that apartments are being built rather than houses confirms the point mentioned above concerning small families. As well as smaller households, 52% of the adults are unmarried. The small family size and percent of unmarried people in West Los Angeles imply that these people value other aspects of life more than family, meaning they would not have an issue with moving from their home city and separating from their family. Moreover, this shows West Los Angeles is becoming a community where people move into to create their own life, rather than previously where generations established themselves. Pictured above is a newly built apartment building in West Los Angeles. This building was built out of demand for more housing in the community. The fact that apartments are being built rather than houses confirms the point mentioned above concerning small families. 
 
