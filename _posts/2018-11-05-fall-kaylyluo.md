@@ -4,8 +4,8 @@ title: "Intertwining Cultures of Old and Modern Venice"
 date: 2018-10-28
 categories: "Sustainability" 
 author: "Kayly Luong"
-lat: 34.025860
-lng: -118.286431
+lat: 33.991590
+lng: -118.470750
 runningtitle: "Abbot Kinney Boulevard" 
 desc: "French School" 
 ---
