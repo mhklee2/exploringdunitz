@@ -1,13 +1,13 @@
 ---
 layout: post
-title: ""
+title: "Making a City: West Los Angeles"
 date: 2018-10-28
-categories: "Sustainability" 
+categories: "gentrification" 
 author: "Brian Borgatello"
 lat: 34.0479
 lng: -118.4273
-runningtitle: "this is just the title at the top, no need to do anything here"
-Desc: "This is the map pop up"
+runningtitle: ""
+Desc: "Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood."
 ---
 
 Making a City: West Los Angeles
@@ -23,7 +23,7 @@ Making a City: West Los Angeles
 ![Los Angeles Homeless Population Grapg](images/Graph.png)
    {:.image}
 Graph comparing the decrease in the homeless population in West Los Angeles (Pink Line) to the increase in other neighborhoods in Los Angeles
-{:.} 
+{:.caption} 
 
 A drop of 115 homeless persons cannot be considered progress in a community because these individuals did not overcome homelessness by reestablishing themselves in society; they simply moved to another neighborhood that offered a better environment for them. In another article written by Julianne Tveten, she referenced an interview conducted with a man, Adam Smith, concerning hostile architecture and homeless people. Smith tells the story of a group of homeless people whose camp became uninhabitable after a private company placed standalone planters where a homeless group previously set up camp, “That next day, after I saw [the planter boxes] for the first time, I went there to look around because I figured they were sleeping somewhere else. I found people up around the corner, just, like, a block away” (“No Walk in the Garden for the Urban Homeless”). This story further proves West Los Angeles intends on avoiding the problem of displaced individuals rather than working with the homeless population to find a solution beneficial to society, because they can afford to. It is important to realize that private organizations and individuals are also taking a part in creating landscapes that discriminate against the homeless, meaning it is a common goal, as a whole of West Los Angeles, to displace the homeless. It is common knowledge that the existence of homeless individuals is perceived as detrimental to the overall quality of that neighborhood as unsafe, ghetto, and poor. The issue arises, however, when a community cannot agree on the best solution to the problem at hand; many individuals desire the removal of displaced people out of convenience for themselves by avoiding the burden of help them regain self-sufficiency, both which will improve the community but not the greater Los Angeles area.
 
@@ -34,7 +34,7 @@ A drop of 115 homeless persons cannot be considered progress in a community beca
 ![Office Building in West Los Angeles](images/LAMural_Borgatello.jpg)
    {:.image}
 Renovated office building in an expensive district in West Los Angeles with expensive cars in the parking lot
-   {:..} 
+   {:.caption} 
    
 The contrasting elements in this picture—the expensive foreign cars and the older refurbished building—are evidence of West Los Angeles’ history and current state. West Los Angeles culture has come to appreciate older rustic architecture, like the factories that are now film studios, and have worked to fix and maintain their appearances. As West Los Angeles becomes a safer and more beautiful community, other elements also follow, resulting in an ideal living area if affordable to the individual.   
    The demographics of West Los Angeles have recently become predominantly people with a higher education, single, and wealthy. This change can possibly be explained through a subtle campaign to push out ethnic and lower-class people. Los Angeles has a historical culture of being ethnically and economically diverse, with these groups being divided into neighborhoods throughout the city. West Los Angeles used to, up until the late 20th century, predominantly include an ethnic and poorer population, which is consequently related to education levels. According to census data, West Los Angeles’ percentage of citizens above 24 with a four-year degree is 60.4%, almost double the national average at 33.4%. The high rate of education these individuals earned is another factor that contributed to the revitalization of West Los Angeles. Coincidingly, with higher education average income also increases, and West Los Angeles’ average is 1.5 times greater the national. West Los Angeles’s shift from being a blue collar to an educated professional workforce within a span less than thirty years is rapid change and shows the determination the community possesses. Moreover, these statistics are not changing because current members are deciding to get a degree and a better paying job, but due to the people leaving and entering the community. As these new types people emigrate the values of the community change. 
@@ -43,32 +43,33 @@ American culture and society values family, but trends indicate that as societie
 ![You change this and put in your own Image title](images/Apartments.jpg)
    {:.image}
 New luxury apartment building in West Los Angles to meetdemand for small households
-   {:..} 
+   {:.caption} 
 
 This building was built out of demand for more housing in the community. The fact that apartments are being built rather than houses confirms the point mentioned above concerning small families. As well as smaller households, 52% of the adults are unmarried. The small family size and percent of unmarried people in West Los Angeles imply that these people value other aspects of life more than family, meaning they would not have an issue with moving from their home city and separating from their family. Moreover, this shows West Los Angeles is becoming a community where people move into to create their own life, rather than previously where generations established themselves. Pictured above is a newly built apartment building in West Los Angeles. This building was built out of demand for more housing in the community. The fact that apartments are being built rather than houses confirms the point mentioned above concerning small families. 
 
    The influx of a new type of population in West Los Angeles and the exodus of the previous residents, including homeless people, has given rise to the cost of living thus raising real estate prices. The obstacles West Los Angeles faces in order to reinvent itself required community members to become more active in the community, lobbying for new legislation, grants and safety measures. Redefined West Los Angeles has become appealing to a certain homogeneous demographic; individuals that tend to be educated, wealthy, and single. The betterment of the community in terms of wealth, safety and image and the new demographics has come at a cost, at the expense of people who have lived in West Los Angeles for generations who had to move due to financial burdens on behalf of the wealthy new neighbors. Although it can easily be agreed upon the benefits and improvements made through gentrifying the community and making it safer are a sign of progress, not all agree with the reinvention of. As a local Los Angeles resident puts it, “West LA, an area that once had some flavor and culture to it, with diversity abundant with its Hispanic, Japanese, and other residents. Now, thanks to gentrification and greedy landowners’ nice buildings that had character and memories to them are being knocked down for luxury condominiums” (Tom).
 
-Work Cited
+### Work Cited
 
+{:.bibliography}
 
-A 2018 Snapshot of Homelessness in Los Angeles County . (2018). Retrieved from KCET: https://www.kcet.org/shows/city-rising/a-2018-snapshot-of-homelessness-in-los-angeles-county
+1. A 2018 Snapshot of Homelessness in Los Angeles County . (2018). Retrieved from KCET: https://www.kcet.org/shows/city-rising/a-2018-snapshot-of-homelessness-in-los-angeles-county
 Carlsbad. (2016). Westwood crime rate increases 22 pct. in 2015, first spike since 2003 . Retrieved from ProQuest: https://search-proquest-com.libproxy1.usc.edu/docview/1758490742/9C4D6D902401488DPQ/1?accountid=14749
 
-Limited, H. D. (2007). IMPROVE 'WEST LOS ANGELES' WITH A $10,000 BEAUTIFICATION GRANT . Retrieved from ProQuest: https://search-proquest-com.libproxy2.usc.edu/docview/470889899/citation/D15CDFF4962E4470PQ/1?accountid=14749
+2. Limited, H. D. (2007). IMPROVE 'WEST LOS ANGELES' WITH A $10,000 BEAUTIFICATION GRANT . Retrieved from ProQuest: https://search-proquest-com.libproxy2.usc.edu/docview/470889899/citation/D15CDFF4962E4470PQ/1?accountid=14749
 
-Mapping West: West Los Angeles. (2008). Retrieved 2018, from latimes: http://maps.latimes.com/neighborhoods/neighborhood/west-los-angeles/
+3. Mapping West: West Los Angeles. (2008). Retrieved 2018, from latimes: http://maps.latimes.com/neighborhoods/neighborhood/west-los-angeles/
 
-Miguel. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
+4. Miguel. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
 
-Newman, M. (1995). Many entertainment companies say goodbye to Hollywood and hello to West LAos Angeles. The New York Times.
+5. Newman, M. (1995). Many entertainment companies say goodbye to Hollywood and hello to West LAos Angeles. The New York Times.
 
-Paris, E. (2018). Los Angeles' Median Home Price Nears $1 Million As Fierce Bidding Wars Continue. Retrieved from Forbes: https://www.forbes.com/sites/ellenparis/2018/05/28/los-angeles-median-home-price-nears-1-million-as-fierce-bidding-wars-continue/#14759c071e85
+6. Paris, E. (2018). Los Angeles' Median Home Price Nears $1 Million As Fierce Bidding Wars Continue. Retrieved from Forbes: https://www.forbes.com/sites/ellenparis/2018/05/28/los-angeles-median-home-price-nears-1-million-as-fierce-bidding-wars-continue/#14759c071e85
 
-Shuster, B. (1994). Parents Taking a Second Look at Public Schools. Retrieved from Los Angeles Times: http://articles.latimes.com/1994-12-31/local/me-14839_1_public-school-system
+7. Shuster, B. (1994). Parents Taking a Second Look at Public Schools. Retrieved from Los Angeles Times: http://articles.latimes.com/1994-12-31/local/me-14839_1_public-school-system
 
-Tom. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
+8. Tom. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
 
-Tveten, J. (2018). No Walk in the Garden for the Urban Homeless. Retrieved from LA Progressive : https://medium.com/@laprogressive1/no-walk-in-the-garden-for-the-urban-homeless-16260ab75d59
+9. Tveten, J. (2018). No Walk in the Garden for the Urban Homeless. Retrieved from LA Progressive : https://medium.com/@laprogressive1/no-walk-in-the-garden-for-the-urban-homeless-16260ab75d59
 
-West Los Angeles. (2014). Retrieved from Point 2 Homes: https://www.point2homes.com/US/Neighborhood/CA/Los-Angeles/West-Los-Angeles-Demographics.html
+10. West Los Angeles. (2014). Retrieved from Point 2 Homes: https://www.point2homes.com/US/Neighborhood/CA/Los-Angeles/West-Los-Angeles-Demographics.html
