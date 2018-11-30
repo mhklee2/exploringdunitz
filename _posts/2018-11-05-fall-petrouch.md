@@ -13,7 +13,7 @@ Nineteen years, six days and counting, I’ve lived in Santa Monica; born and ra
 
 Santa Monican locals are quite open-minded when it comes to policy making and various controversial topics. A questionnaire asked participants to self-assess, “Do you consider yourself a liberal?” Of the 56 people surveyed, an overwhelming 39 of them (69.6%) did in fact consider themselves to be liberals (Petrouchin).  Even though it may not be the case that all 39 of the participants who sided with the left side of the political spectrum for the purposes of the questionnaire are truly die-hard liberals (some may have felt peer pressure from surrounding bystanders to express themselves as liberals) it seems likely that at least the majority of the people interviewed were liberals. Next, participants were asked whether they supported or opposed mainstream issues oftentimes debated by the two opposing political parties. The two questions read, “Do you believe in freedom of choice in regards to abortion?” and “Are you a supporter of Gay Marriage?”. Of the 56 people answering the questions, 43 (76.8%) answered that they do believe in freedom of choice in regards to abortion and 42 (75.0%) answered that they are supporters of Gay Marriage, respectively. It seems like most political debates, at one point or another, touch upon these aforementioned topics; invariably, left supporters lean towards supporting freedom of choice and Gay Marriage, while rightists oppose them. Although a survey of 56 residents in a city of 92,298 people is a relatively small sample size, if the rest of Santa Monica’s populace exhibits somewhat similar views to those of the surveyed, then it’s safe to say that the adult residents are liberal, and this tempers the political views of the younger generation.
 
-![Liberal abortion marriage picture.PNG](images/Liberal abortion marriage picture.PNG.jpg)
+![Liberal abortion marriage picture.PNG](images/Liberal abortion marriage picture.PNG)
    {:.image}
 [Figure 1: Santa Monica High School students walk out in protest of gun violence]
    {:.caption} 
@@ -24,7 +24,7 @@ Numerous established tech giants are setting their roots in Santa Monica and nei
 
 When a city is open-minded and business-minded, previously unseen business undertakings emerge. Santa Monica is home to a well-known locale both locals and tourists oftenly frequent, 3rd Street Promenade. Being the epicenter of lots of innovation/intellectual traffic, the Promenade is home to much entrepreneurial ingenuity. Businesses attempt to stay ahead of the game and in doing so, figured out that it can be quite beneficial to cater to a large part of the populace: tourists. One method these forward-thinking entrepreneurs capitalize on the opportunity is to bring tourists’ home-grown tastes and preferences to the business storefronts. 	On various stores throughout the street, these businesses apply Japanese characters to their business names. For instance, the clothing brand, Superdry, is a UK based brand that incorporates Japanese lettering into their brand in order to cater to a broader clientele. With businesses willing to step out of their comfort zones and offer previously unheard of ideas, they demonstrate that they’re committed to being the best. Being based in Santa Monica, it also demonstrates Santa Monica’s willingness to support innovation to continue becoming a strong business center. Aside from being a strong entrepreneurial locale, it presents great opportunities for and guardianship of its people. 
 
-![Superdry picture.PNG](images/Superdry picture.PNG.jpg)
+![Superdry picture.PNG](images/Superdry picture.PNG)
    {:.image}
 [Figure 2: Superdry store title outfitted with Japanese characters]
    {:.caption} 
@@ -34,19 +34,19 @@ Santa Monica demonstrates that it is caring through the quality of education it 
 Just as important as the quality education children receive, there is an abundance of accessible parks for kids and parents to enjoy.  In these pictures of Douglas Park and Lincoln Middle School (transformed into a park by night), it is clear that Santa Monica City Government cares for its people because of all the money it invests in the successful operation of its parks and fields. For the parks to be functional and accessible, all the numerous acres of land need to be well-lit (to make sure the residents are safe and that no one gets hurt) and clean; both undertakings are undoubtedly pricy, but because they’re enacted, parents and kids can spend time together and residents can build community bonds. At the same time, though, they don’t allow other important issues escape their minds. 
 For instance, the city government is supportive of the underrepresented population. A paper published by a trio of university professors, Professor Everett M. Rogers of the University of New Mexico, Albuquerque, Professor Lori Collins-Jarvis of Rutgers University, and Professor Joseph Schmitz of the University of Southern California, examined a local initiative to give voice to the voiceless, the PEN project. In short, the PEN project was designed to stimulate residents’ “interactive communication, equality, and political action.” The research team writes that Santa Monica designed the “electronic communication system” in such a manner that would allow “disadvantaged groups (such as the homeless, and women) to exchange relevant information and engage in political action.” The team continues, “These meetings eventually led to collaborative political action to enable homeless individuals to more effectively seek employment” (Rogers). In an age when many turn away from those needing the most help, Santa Monica stands up for what is right and does everything in its power to not only provide for the powerless in the moment, but to give hope for a brighter tomorrow. 
 
-![Lincoln Middle School picture.PNG](images/Lincoln Middle School picture.PNG.jpg)
+![Lincoln Middle School picture.PNG](images/Lincoln Middle School picture.PNG)
    {:.image}
 [Figure 3: Lincoln Middle School is open to the public every evening]
    {:.caption} 
    
-![Douglas Park picture.PNG](images/Douglas Park picture.PNG.jpg)
+![Douglas Park picture.PNG](images/Douglas Park picture.PNG)
    {:.image}
 [Figure 4: Douglas Park, up kept for all to enjoy]
    {:.caption} 
 
 Another dimension of Santa Monica caring: it supports its own small businesses. It is well documented that mega-chain superstores like Wal-Mart, Target, and Amazon don’t have favorable effects on home-grown small businesses. To combat that, Santa Monica attempts to level the playing field by caring for its smaller businesses. For instance, (as pictured to the below) the city government supports local farmers. Two days every week, the city shuts down multiple street blocks in Downtown Santa Monica in order to house farmers and their produce. Even though it may seem like a rather inconsequential effort from the city’s part to some people, it turns out to be ultra-important boost to the local businesses. These (occasionally uneducated) farmers are provided with an opportunity to be self-dependent entrepreneurs with a viable economic occupation alternative to working low paying industry jobs. 
 
-![Samo farmer's market picture.PNG](images/Samo farmer's market picture.PNG.jpg)
+![Samo farmer's market picture.PNG](images/Samo farmer's market picture.PNG)
    {:.image}
 [Figure 5: Santa Monica residents shopping in the farmers' market]
    {:.caption} 
@@ -55,25 +55,26 @@ Santa Monica is a very caring Liberal city that does well for itself financially
 
 
 #### Works cited
+{:.bibliography}
 
-Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa Monica City Hall.” Santa Monica Daily Press, 20 Apr.     2018, www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-santa-monica-city-hall/165646.
+1. Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa Monica City Hall.” Santa Monica Daily Press, 20 Apr.     2018, www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-santa-monica-city-hall/165646.
 
-“Census Profile: Santa Monica, CA.” Census Reporter, 2017, censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
+2. “Census Profile: Santa Monica, CA.” Census Reporter, 2017, censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
 
-“Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa Monica, 4 Oct. 2018,	                  						     www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
+3. “Fresh Eats: Santa Monica Farmers Market Bounty.” Santa Monica, City of Santa Monica, 4 Oct. 2018,	                  						     www.santamonica.com/fresh-eats-santa-monica-farmers-markets/.
 
-Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa Monica, CA Patch, Patch, 8 Aug. 2017,							  patch.com/california/santamonica/how-does-smmusd-compare-school-districts-nationwide.
+4. Holland, Emily. “How Does SMMUSD Compare To School Districts Nationwide?” Santa Monica, CA Patch, Patch, 8 Aug. 2017,							  patch.com/california/santamonica/how-does-smmusd-compare-school-districts-nationwide.
 
-Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9 Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-       with-race-incident/.
+5. Mirrormmg. “Committee Forms to Deal With Race Incident:” Santa Monica Mirror, 9 Aug. 2011, smmirror.com/2011/08/committee-forms-to-deal-       with-race-incident/.
 
-Petrouchin, Walter. “Santa Monica - Liberal or Not?” 28 Oct. 2018.
+6. Petrouchin, Walter. “Santa Monica - Liberal or Not?” 28 Oct. 2018.
 
-Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive Communication, Equality, and Political Action.” The Canadian        Journal of Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
+7. Rogers, Everett M., et al. “The PEN Project in Santa Monica: Interactive Communication, Equality, and Political Action.” The Canadian        Journal of Chemical Engineering, Wiley-Blackwell, 4 Jan. 1999, onlinelibrary.wiley.com/doi	
       /pdf/10.1002/(SICI)1097-4571(199407)45:6<401::AID-ASI6>3.0.CO;2-N.
 
-Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-          angeles-tech-neighborhood-guide-santa-monica.
+8. Siegel, John. “Los Angeles Tech Neighborhood Guide: Santa Monica.” Built In Los Angeles, 4 May 2017, www.builtinla.com/2017/05/04/los-          angeles-tech-neighborhood-guide-santa-monica.
 
-“SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-        Spot-In-Transfers-to-UC.aspx.
+9. “SMC Maintains No. 1 Spot In Transfers to University of California.” Santa Monica College, www.smc.edu/NewsRoom/Pages/SMC-Maintains-Top-        Spot-In-Transfers-to-UC.aspx.
 
 
 
