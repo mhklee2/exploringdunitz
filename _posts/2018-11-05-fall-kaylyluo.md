@@ -27,32 +27,23 @@ Companies like Bird are changing the landscape and drawing in millennials with e
 As gentrification of Venice Beach continues to penetrate the city, a revolution of culture will follow as well. The innate goal of revamping Venice Beach was to lessen the gang violence rate and turn it into a tourist attraction. In turn, gentrification has displaced local communities shifting it from a cultural hub to a technology ridden city. Inevitably, with the gentrification of Venice the prices will increase resulting in loss of cultures and change of landscape. While gentrification has offered a means to redevelop Venice Beach into a start-up technology, it has buried some of the culture as a result. While some communities are able to assimilate and keep pace with the inauguration of Millennials from these technology start ups, others are left unable to keep pace with the raising rent prices forcing them to move further inland or out of state. The culture that founded Venice Beach was filled with an array of diversity ranging from liberal artists and die hard surf fanatics has slowly faded as years past. Now, the culture of Venice Beach will continue to mold into another direction as it works to mesh together new and old to form the future of the city.
 
 
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
 
 #### Works cited
 
 {:.bibliography} 
-1. This is your you put in a citation.
-2. And another.
-3. One more maybe?
+Bird unveils bird zero: Custom-designed e-scooter for ridesharing 2.0. (2018, Oct 04). PR Newswire Retrieved from http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/2116084753?accountid=14749
+Carroll, R. (2016, December 01). LA's black enclave buffeted by police pressure and tech-driven gentrification. Retrieved from https://www.theguardian.com/us-news/2016/dec/01/venice-gentrification-oakwood-african-american-california 
+Catanzaro, S. (2018, April 17). [Birds lined up in Venice].
+Census profile: Block Group 4, Los Angeles, CA. (2016). Retrieved from https://censusreporter.org/profiles/15000US060372732004-block-group-4-los-angeles-ca/
+Claire Fontaine: A school and mural celebrating children. (2006, April 6). Retrieved from https://argonautnews.com/claire-fontaine-a-school-and-mural-celebrating-children/
+Deener, A. (2007), Commerce as the Structure and Symbol of Neighborhood Life: Reshaping the Meaning of Community in Venice, California. City & Community, 6: 291-314. doi:10.1111/j.1540-6040.2007.00229.x
+Martin, M. (2017, May 02). Abbot Kinney: The Face of Gentrification – The Corsair – Medium. Retrieved from https://medium.com/thecorsair/abbot-kinney-the-face-of-gentrification-5587f5aa05fa
+Moutout, A. (2017, Aug 08). Venice beach, un rêve italien en californie. Les EchosRetrieved from http://libproxy.usc.edu/login?url=https://search-proquest-com.libproxy1.usc.edu/docview/1970471468?accountid=14749
+Newitz, A. (2015, December 16). Here's What Happens When White People Move Into Your Neighborhood. Retrieved from https://io9.gizmodo.com/heres-what-happens-when-white-people-move-into-your-nei-1627658680
+Quintano, A. (2017, February 23). [Buzzfeed headquarters in Venice].
+Reynolds, S. S. (2001, July 13). By the Pacific, French Village Life. Retrieved from http://articles.latimes.com/2001/jul/13/news/cl-21711
+Sample, J. (2012, March 20). Abbot Kinney: The Coolest Block in America Photos. Retrieved from https://www.gq.com/gallery/abbot-kinney-boulevard-shopping-venice-california
+Schneider, G. (2018, August 15). A Faction in Venice Is Trying to Stop a Former Black Church From Becoming a Mansion. Retrieved from https://www.lamag.com/citythinkblog/first-baptist-church-venice/
+Sullivan, R. (1990, October 07). An Intimate Look at History : The Oakwood home that belongs to Thelma Tabor Brawley is a reminder of the special relationship her father had with his employer, Abbot Kinney, the founder of Venice. Retrieved from http://articles.latimes.com/1990-10-07/news/we-3156_1_abbot-kinney 
+
+
