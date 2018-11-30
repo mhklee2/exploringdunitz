@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Unexpected yet Influential Culture "
+title: "An Unexpected Yet Influential Culture "
 date: 2018-11-29
 categories: "sustainability" 
 author: "Zachary Mize"
