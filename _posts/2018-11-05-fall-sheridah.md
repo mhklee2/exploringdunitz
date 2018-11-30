@@ -2,12 +2,12 @@
 layout: post
 title: "Suffering in Suburbia"
 date: 2018-10-28
-categories: "Sustainability" 
+categories: "Suburbia" 
 author: "SHERIDAN HAYES"
 lat: 34.179023
 lng: -118.414327
 runningtitle: "this is just the title at the top, no need to do anything here"
-desc: "Suburbia"
+desc: "Suburban neighborhoods, such as North Hollywood, offer cultural stability, but the social isolation leads to boredom that can result in a homogenous culture that lacks a community outlet."
 ---
 
 Another Friday night of my friends and I contemplating what to do, deciding whether to go see a movie like last week or eat at one of the same three restaurants we go to every weekend. Another night brainstorming places to go to meet new people or experience new activities. Time and time again, we gave up and defaulted to dinner and a movie at someone’s house. Growing up in suburbia tends to be portrayed as an idyllic life: open spaces for children to play in, comfortable, similar structured houses located near schools, and a consistent ethos among the residents. However, these are the same elements that lead to a monotonous, mundane life. Suburban neighborhoods, such as North Hollywood, offer cultural stability, but the social isolation leads to boredom that can result in a homogenous culture that lacks a community outlet. The key elements of suburban areas are determined by the inhabitants, the distinction between suburban and other types of living areas, and how commerce is distributed among the community. The homogeny creates a false sense of order within the community but on surface level, fails to address the different cultures within the community. Mental health can be impacted negatively due to the lack of outlets within the community, influencing young people to turn to drugs and crime. Art is a typical outlet that uses creativity to release emotions and stress. However, in the North Hollywood area, the art on display does not reflect a sense of community.
