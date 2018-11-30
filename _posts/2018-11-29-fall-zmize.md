@@ -14,9 +14,24 @@ For many, it is hard to conceptualize living in history from nearly seven decade
 The post-war era of World War II not only brought a revival from the Great Depression and a changing image of women in society, but perhaps the most important, in this context, it brought the rise of suburban culture. Suburbs exist all across America including Southern California with cities like Anaheim and Irvine in Orange County which have come to define a national suburban image. However, located less than 100 miles north exists a suburban neighborhood hidden by the overlying image that is Los Angeles. North Hollywood is a near picture perfect example of a suburb with its location bordering the city of Los Angeles along with its large residential population and relatively affordable homes. As the Los Angeles Times puts it, “relatively affordable houses are making North Hollywood a destination for strivers looking to own a piece of the American Dream” (“Neighborhood” 2). This American dream of starting a life in a desirable, opportune location is not just experienced by a white population as most suburban cities came to be after the war (Nicolades 3). North Hollywood now exists as an ethnically diverse community where Caucasian people are actually a minority. Among the city’s population, 43.6% are Hispanic, 41.1% are White, 6.8% are Asian, and 5.5% are African American; the other 3% of the population are of different ethnicities (“LA” 7). With an ethnic residential population, North Hollywood most certainly can be categorized as a diverse, suburban neighborhood. 
 
 A community is something that exists in almost every area of the world. It can be as little as recognition of other people's presence all the way to a feeling of family with the people involved. However, a greater sense of community is what aids in providing a more positive reputation for the city where the community exists. The community within North Hollywood would not be as strong as it is today if not for the suburban culture that has come to occur. Due to this suburban culture, residents are protected from the crime and negative influences that can infect an area from the inner roots of larger, more dangerous cities like Los Angeles. When examining North Hollywood’s crime rate, it is revealed to sit at 2,838 people victimized per 100,000 people annually which is right at the national average and is nearly 400 people below Los Angeles’ average which is 3,193 victims per 100,000 people (“Times” 1). This perception of protection is not just an imaginary sense. Residents truly feel this and embrace this feeling as seen in the architecture of their city. Unlike homes in Los Angeles, many are modestly gated or not gated at all in North Hollywood and very few have barred windows for added protection. A majority of restaurants and businesses also embrace a sense of safety by using minimal protection of their property. 
+![Houses with minimal security](images/houses.jpg)
+   {:.image}
+You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+   {:.caption} 
+
+ ![No bars and small, decorative fencing](images/older house.jpg)
+   {:.image}
+You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+   {:.caption} 
+   
 
 As resulted by suburban lifestyle, the minds of North Hollywood’s residents have been impacted with a communal sense of protection. Through lower crime and a small negative atmosphere as a result of safety, a sense of community is able to strongly exist and thrive within the city. Because of this, North Hollywood’s community contributes to a positive reputation for the city, further encouraging the community within to grow. 
  “Community” is not just an empty term. Rather it is something that can physically be seen through the various aspects of the suburban neighborhood. Recreation centers and parks line the neighborhood where residents are able to freely attend year-round. Instead of clashing against each other, ethnicities are able to blend and coexist together as seen by shopping plazas with Greek, American, Hispanic, and Asian shops as well as various religious churches existing in close relation to one another. As Ama Otet, a resident and real estate philanthropist describes it, North Hollywood consists of a "mixture of long-time residents, recent immigrants, and a steady influx of writers, artists, actors, filmmakers, and musicians" (Otet 2). This cooperating blend amongst the amenities of the neighborhood serves as physical proof of a thriving community despite ethnic and background differences. 
+
+![Houses with minimal security](images/houses.jpg)
+   {:.image}
+You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
+   {:.caption} 
  
 Admittedly, recreation centers, parks, culturally diverse shopping plazas, and various religion churches close in proximity are all things that exist amongst some city life and most likely within Los Angeles. In fact, Los Angeles is well known for its recreational and social options it provides (Pitt 2). However, the interaction, and thus the community formed is much different. Due to a smaller population existing in a less dense area, more regular interactions are able to occur from suburban life. Cities are often heavily populated and constricted by traffic meaning familiar faces are less frequently seen and lasting, genuine relationships that exist within a strong community are harder to form. Communities that wish to require desirable social interaction amongst its participants where emotional connections, and thus a sense of true community, can form (Makes 1). These interactions and emotional connections can prove to be harder to form due to the busy, stressful city environment, making community less achievable outside of suburban life. The community within North Hollywood is not congested with large amounts of traffic and is relatively lowly populated as compared to the city of Los Angeles. Thus, the community is not constricted and is able to grow through the genuine, regular interactions that come with North Hollywood’s suburban life. 
 
@@ -28,30 +43,7 @@ North Hollywood is in no way perfect and consists of various negative traits suc
 
 Suburban culture influences its residents in both positive and negative ways but perhaps the most abstract way is through the sense of optimism that its residents are enriched with. Through the ability of more space and separation from a large work environment, suburbs, specifically, North Hollywood, offer an opportune place for growth economically and psychologically. With more land readily available, businesses are able to construct new office spaces which can boost the local economy by providing more jobs. citation Residents can also take part in this economic boost and experience psychological growth by fulfilling a dream using the relatively cheap land to construct their own local business like a restaurant or contributing to a new aquatics center. Regardless of what new facilities are to come, a suburban area within North Hollywood provides for a heap of opportunities. City life may be hitting its peak due to its lack of space and minimal residential environment, but North Hollywood is on track for an optimistic future where residents will be able to enjoy the mysteries that are to come
 
-Without lower crime and a shared sense of safety, it can perhaps be assumed that the community would just be an abstract idea in North Hollywood if not for suburban culture. However, a strong community does, in fact, exist due to the suburban culture that also contributes to economic and social differences such as cheaper property and regular, genuine interactions which can be much scarcer in a city lifestyle. North Hollywood's suburban culture expands its influence past economic and societal aspects and through the space provided by suburbs, residents are enriched with a unique sense of optimism that just cannot be found within city life. Northern Hollywood is a suburban neighborhood where the suburban culture has come to shape its residents' lifestyles and perspectives by engaging them with interaction and a sense safety, providing economic and social differences from city life, and allowing for space and optimism that comes from living in a suburban area. Restate. Although many suburbs like North Hollywood and Nichols Hills have come to exist already, it is almost certain that more is to come. These suburbs can model themselves like the ones before them and continue to contribute to the benefits suburban culture provides. 
-
-
-
-   
-![Culturaly Diverse Shopping Plaza](images/stores and restaurants.JPG)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-
-![Houses with minimal security](images/houses.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-
-![No bars and small, decorative fencing](images/older house.JPG)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-
-
+Without lower crime and a shared sense of safety, it can perhaps be assumed that the community would just be an abstract idea in North Hollywood if not for suburban culture. However, a strong community does, in fact, exist due to the suburban culture that also contributes to economic and social differences such as cheaper property and regular, genuine interactions which can be much scarcer in a city lifestyle. North Hollywood's suburban culture expands its influence past economic and societal aspects and through the space provided by suburbs, residents are enriched with a unique sense of optimism that just cannot be found within city life. Northern Hollywood is a suburban neighborhood where the suburban culture has come to shape its residents' lifestyles and perspectives by engaging them with interaction and a sense safety, providing economic and social differences from city life, and allowing for space and optimism that comes from living in a suburban area. Although many suburbs like North Hollywood and Nichols Hills have come to exist already, it is almost certain that more is to come. These suburbs can model themselves like the ones before them and continue to contribute to the benefits suburban culture provides. 
 
 #### Works cited
 
