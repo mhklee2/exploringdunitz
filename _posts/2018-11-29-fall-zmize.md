@@ -2,7 +2,8 @@
 layout: post
 title: "An Unexpected Yet Influential Culture "
 date: 2018-11-29
-categories: "sustainability, race" 
+categories: "sustainability"
+categories: "race"
 author: "Zachary Mize"
 lat: 34.1793389
 lng: -118.414553
