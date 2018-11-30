@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Making a City: West Los Angeles"
 date: 2018-10-28
 categories: "Sustainability" 
 author: "Brian Borgatello"
