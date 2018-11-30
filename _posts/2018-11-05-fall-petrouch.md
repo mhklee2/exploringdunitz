@@ -81,7 +81,6 @@ Here is the end of your essay!
 
 #### Works cited
 
-{:.bibliography} 
 Author, Guest. “Santa Monica High School Students Plan Walkout and Protest at Santa	 	Monica City Hall.” Santa Monica Daily Press, 20 Apr. 2018, 					www.smdp.com/santa-monica-high-school-students-plan-walkout-and-protest-at-	santa-monica-city-hall/165646.
 
 “Census Profile: Santa Monica, CA.” Census Reporter, 2017, 					censusreporter.org/profiles/16000US0670000-santa-monica-ca/.
