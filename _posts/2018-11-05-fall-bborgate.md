@@ -20,7 +20,7 @@ Formating is very simple in this document.
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the sYOURpecial curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
    
    
-![You change this and put in your own Image title](images/example3.jpg)
+![You change this and put in your own Image title](images/Graph.png)
    {:.image}
 Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
@@ -29,7 +29,7 @@ Here is more text.Here is more text.Here is more text.Here is more text.Here is 
 
 And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
 
-![You change this and put in your own Image title](images/LAMural_Borgatello.jpg)
+![You change this and put in your own Image title](images/Graph.png)
    {:.image}
 see see
    {:.caption} 
@@ -39,12 +39,12 @@ Now more text.Now more text.Now more text.Now more text.Now more text.Now more t
 
 You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
 
-![You change this and put in your own Image title](images/Apartments.jpg)
+![You change this and put in your own Image title](images/LAMural_Borgatello.jpg)
    {:.image}
 You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
    
-![You change this and put in your own Image title](images/Rolex_Bilboard.jpg)
+![You change this and put in your own Image title](images/Apartments.jpg)
    {:.image}
 Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
