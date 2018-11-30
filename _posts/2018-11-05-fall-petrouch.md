@@ -17,19 +17,39 @@ As is often the case, children take on many of the qualities that their parents 
 
 ![Liberal abortion marriage picture.PNG](images/Liberal abortion marriage picture.PNG.jpg)
    {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Figure 1: Santa Monica High School students walk out in protest of gun violence]
+[Figure 1: Santa Monica High School students walk out in protest of gun violence]
    {:.caption} 
 
 Numerous established tech giants are setting their roots in Santa Monica and neighboring cities; such decisions benefit the city’s residents. In an online article from the online job placement forum, Built In Los Angeles, it’s stated that “Over the last 20 years, Santa Monica has firmly established itself as the epicenter for tech in Southern California. Home to dozens of intriguing tech startups, in addition to a number of well-established tech companies, the city isn't just the metaphorical capital of Silicon Beach: it's the genesis for the nickname that defines tech in LA ”(Siegel). Santa Monica is a business destination as good as any other. As a consequence of these well-established technology companies moving to Santa Monica, many high paying jobs are brought to the communities. With the likes of Snapchat and Google establishing themselves in Santa Monica/Silicon Beach, the average salaries of the people living there rise, leading to more financial liberties for its residents, thus leading to better qualities of life. An anecdotal story further illustrates the point that Santa Monica is a sought after tech and business destination. About a year and a half ago in the spring of 2017, the scooter tech start-up, Bird, established its roots in Santa Monica. Because Santa Monicans are, rather affluent, the luxury scooter brand has been a huge success. More importantly, the company brought an influx of jobs for the small percentage of people who would otherwise have limited job alternatives. These new-found jobs give people a sense of purpose and enhance the quality of life residents are able to enjoy. Additional examples of tech start-ups uplifting the local economy are Ring (a home security company) and Blockfolio (a cryptocurrency price data watching app). With so many industry leading companies believing in Santa Monica enough to want to conduct their business there, the logical assumption is that Santa Monica is a premiere technology and business destination.
 
 When a city is open-minded and business-minded, previously unseen business undertakings emerge. Santa Monica is home to a well-known locale both locals and tourists oftenly frequent, 3rd Street Promenade. Being the epicenter of lots of innovation/intellectual traffic, the Promenade is home to much entrepreneurial ingenuity. Businesses attempt to stay ahead of the game and in doing so, figured out that it can be quite beneficial to cater to a large part of the populace: tourists. One method these forward-thinking entrepreneurs capitalize on the opportunity is to bring tourists’ home-grown tastes and preferences to the business storefronts. 	On various stores throughout the street, these businesses apply Japanese characters to their business names. For instance, the clothing brand, Superdry, is a UK based brand that incorporates Japanese lettering into their brand in order to cater to a broader clientele. With businesses willing to step out of their comfort zones and offer previously unheard of ideas, they demonstrate that they’re committed to being the best. Being based in Santa Monica, it also demonstrates Santa Monica’s willingness to support innovation to continue becoming a strong business center. Aside from being a strong entrepreneurial locale, it presents great opportunities for and guardianship of its people. 
 
+![Superdry picture.PNG](images/Superdry picture.PNG.jpg)
+   {:.image}
+[Figure 2: Superdry store title outfitted with Japanese characters]
+   {:.caption} 
+
 Santa Monica demonstrates that it is caring through the quality of education it provides its people. Santa Monica’s K-12 SMMUSD school district is home to many well-respected schools that prepare kids for success upon graduation from high school. In fact, according to Niche.com, an online school district database, “Santa Monica-Malibu Unified School District was ranked #548 out of the 10,574 school districts in the country. Within California, it ranked #29 out of 474” (Holland). Doing the math, these rankings place SMMUSD in the 95th percentile in the entire nation and the 96th percentile in the state of California in the quality of education it provides. Children who are being well educated all throughout their most important developmental years are considerably more likely to enjoy more success later on in their lives than kids who don’t receive the same solid schooling foundation. Having agreed to that, it’s reasonable to conclude that Santa Monica is caring - it really does care that Santa Monica kids are successful. On the same note, Santa Monica houses a flourishing higher education program, Santa Monica College (SMC). SMC proudly claims that it is the best transfer school in California. To better illustrate that, keep in mind the mind-boggling statistic that of all the students transferring to the University of California: 46% are headed to UCLA (SMC Maintains No.1). UCLA, a school that is ranked as the 19th best university in America, it’s impressive that nearly half of the students transferring out of a community college into University of California are going into such a well-respected four year institution. These impressive transfer statistics demonstrate that SMC is a well-equipped school that prepares its students for success later on in their academic and professional careers. With the City of Santa Monica being a direct supporter of SMC, the success students have can be directly attributed, at least in part, to Santa Monica. Again, showing that Santa Monica cares. 
 
 Just as important as the quality education children receive, there is an abundance of accessible parks for kids and parents to enjoy.  In these pictures of Douglas Park and Lincoln Middle School (transformed into a park by night), it is clear that Santa Monica City Government cares for its people because of all the money it invests in the successful operation of its parks and fields. For the parks to be functional and accessible, all the numerous acres of land need to be well-lit (to make sure the residents are safe and that no one gets hurt) and clean; both undertakings are undoubtedly pricy, but because they’re enacted, parents and kids can spend time together and residents can build community bonds. At the same time, though, they don’t allow other important issues escape their minds. 
 For instance, the city government is supportive of the underrepresented population. A paper published by a trio of university professors, Professor Everett M. Rogers of the University of New Mexico, Albuquerque, Professor Lori Collins-Jarvis of Rutgers University, and Professor Joseph Schmitz of the University of Southern California, examined a local initiative to give voice to the voiceless, the PEN project. In short, the PEN project was designed to stimulate residents’ “interactive communication, equality, and political action.” The research team writes that Santa Monica designed the “electronic communication system” in such a manner that would allow “disadvantaged groups (such as the homeless, and women) to exchange relevant information and engage in political action.” The team continues, “These meetings eventually led to collaborative political action to enable homeless individuals to more effectively seek employment” (Rogers). In an age when many turn away from those needing the most help, Santa Monica stands up for what is right and does everything in its power to not only provide for the powerless in the moment, but to give hope for a brighter tomorrow. 
 
+![Lincoln Middle School picture.PNG](images/Lincoln Middle School picture.PNG.jpg)
+   {:.image}
+[Figure 3: Lincoln Middle School is open to the public every evening]
+   {:.caption} 
+   
+![Douglas Park picture.PNG](images/Douglas Park picture.PNG.jpg)
+   {:.image}
+[Figure 4: Douglas Park, up kept for all to enjoy]
+   {:.caption} 
+
 Another dimension of Santa Monica caring: it supports its own small businesses. It is well documented that mega-chain superstores like Wal-Mart, Target, and Amazon don’t have favorable effects on home-grown small businesses. To combat that, Santa Monica attempts to level the playing field by caring for its smaller businesses. For instance, (as pictured to the below) the city government supports local farmers. Two days every week, the city shuts down multiple street blocks in Downtown Santa Monica in order to house farmers and their produce. Even though it may seem like a rather inconsequential effort from the city’s part to some people, it turns out to be ultra-important boost to the local businesses. These (occasionally uneducated) farmers are provided with an opportunity to be self-dependent entrepreneurs with a viable economic occupation alternative to working low paying industry jobs. 
+
+![Samo farmer's market picture.PNG](images/Samo farmer's market picture.PNG.jpg)
+   {:.image}
+[Figure 5: Santa Monica residents shopping in the farmers' market]
+   {:.caption} 
 
 Santa Monica is a very caring Liberal city that does well for itself financially. The conclusion came to be after spending the last several weeks interviewing Santa Monican residents, analyzing business specialist reviews, and evaluating community measures. Having been a part of Santa Monica for close to two decades now, I appreciate it for the amazing home it has been to me. Although not all American cities border the Pacific Ocean and not every town belongs to the mega city supercenter Los Angeles has evolved into, it’s important to recognize that every city has something special about itself that can make it an exemplary place. And no, not every city has to be a liberal business hub, but if every city chose to be the best city it can be for its people, then the world would become a better place. 
 
@@ -46,38 +66,7 @@ Indents do not, so just put a space in for each new paragraph.
 Formating is very simple in this document. 
 
 To add an image you will use an exclamation point, then a description in brackets, and then the location of the image in parentheses. We will try to store ALL of our images in the GitHub repository.  There is also a little bit of text after the image in the special curly brackets and the word image inside it. Leave this alone! It displays the image in a special viewer so when you click on the image it opens it up in its own viewer and then you can cycle through all the images in this viewer. You can put in as many images as you like. Just always make sure to have the curly brackets afterwards.
-   
-   
-![You change this and put in your own Image title](images/name of park in sm.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
 
-Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.Here is more text.
-
-And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-
-Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.Now more text.
-
-
-You can continue writing text with images placed after paragraphs. Or, you can save all your images for the end of the essay.
-
-![You change this and put in your own Image title](images/example1.jpg)
-   {:.image}
-You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
-   {:.caption} 
-   
-![You change this and put in your own Image title](images/example2.jpg)
-   {:.image}
-Another attribution and or a quick description for the the image. This image was found on the [Great Walk Blogspot](http://greatlawalk.blogspot.com/2016/11/)
-   {:.caption} 
-
-Here is the end of your essay!
 
 #### Works cited
 
