@@ -6,8 +6,8 @@ categories: "gentrification"
 author: "Brian Borgatello"
 lat: 34.0479
 lng: -118.4273
-runningtitle: "Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood."
-Desc: "This is the map pop up"
+runningtitle: ""
+Desc: "Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood."
 ---
 
 Making a City: West Los Angeles
@@ -49,8 +49,9 @@ This building was built out of demand for more housing in the community. The fac
 
    The influx of a new type of population in West Los Angeles and the exodus of the previous residents, including homeless people, has given rise to the cost of living thus raising real estate prices. The obstacles West Los Angeles faces in order to reinvent itself required community members to become more active in the community, lobbying for new legislation, grants and safety measures. Redefined West Los Angeles has become appealing to a certain homogeneous demographic; individuals that tend to be educated, wealthy, and single. The betterment of the community in terms of wealth, safety and image and the new demographics has come at a cost, at the expense of people who have lived in West Los Angeles for generations who had to move due to financial burdens on behalf of the wealthy new neighbors. Although it can easily be agreed upon the benefits and improvements made through gentrifying the community and making it safer are a sign of progress, not all agree with the reinvention of. As a local Los Angeles resident puts it, “West LA, an area that once had some flavor and culture to it, with diversity abundant with its Hispanic, Japanese, and other residents. Now, thanks to gentrification and greedy landowners’ nice buildings that had character and memories to them are being knocked down for luxury condominiums” (Tom).
 
-Work Cited
+### Work Cited
 
+{:.bibliography}
 
 1. A 2018 Snapshot of Homelessness in Los Angeles County . (2018). Retrieved from KCET: https://www.kcet.org/shows/city-rising/a-2018-snapshot-of-homelessness-in-los-angeles-county
 Carlsbad. (2016). Westwood crime rate increases 22 pct. in 2015, first spike since 2003 . Retrieved from ProQuest: https://search-proquest-com.libproxy1.usc.edu/docview/1758490742/9C4D6D902401488DPQ/1?accountid=14749
