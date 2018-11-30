@@ -52,23 +52,23 @@ This building was built out of demand for more housing in the community. The fac
 Work Cited
 
 
-A 2018 Snapshot of Homelessness in Los Angeles County . (2018). Retrieved from KCET: https://www.kcet.org/shows/city-rising/a-2018-snapshot-of-homelessness-in-los-angeles-county
+1. A 2018 Snapshot of Homelessness in Los Angeles County . (2018). Retrieved from KCET: https://www.kcet.org/shows/city-rising/a-2018-snapshot-of-homelessness-in-los-angeles-county
 Carlsbad. (2016). Westwood crime rate increases 22 pct. in 2015, first spike since 2003 . Retrieved from ProQuest: https://search-proquest-com.libproxy1.usc.edu/docview/1758490742/9C4D6D902401488DPQ/1?accountid=14749
 
-Limited, H. D. (2007). IMPROVE 'WEST LOS ANGELES' WITH A $10,000 BEAUTIFICATION GRANT . Retrieved from ProQuest: https://search-proquest-com.libproxy2.usc.edu/docview/470889899/citation/D15CDFF4962E4470PQ/1?accountid=14749
+2. Limited, H. D. (2007). IMPROVE 'WEST LOS ANGELES' WITH A $10,000 BEAUTIFICATION GRANT . Retrieved from ProQuest: https://search-proquest-com.libproxy2.usc.edu/docview/470889899/citation/D15CDFF4962E4470PQ/1?accountid=14749
 
-Mapping West: West Los Angeles. (2008). Retrieved 2018, from latimes: http://maps.latimes.com/neighborhoods/neighborhood/west-los-angeles/
+3. Mapping West: West Los Angeles. (2008). Retrieved 2018, from latimes: http://maps.latimes.com/neighborhoods/neighborhood/west-los-angeles/
 
-Miguel. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
+4. Miguel. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
 
-Newman, M. (1995). Many entertainment companies say goodbye to Hollywood and hello to West LAos Angeles. The New York Times.
+5. Newman, M. (1995). Many entertainment companies say goodbye to Hollywood and hello to West LAos Angeles. The New York Times.
 
-Paris, E. (2018). Los Angeles' Median Home Price Nears $1 Million As Fierce Bidding Wars Continue. Retrieved from Forbes: https://www.forbes.com/sites/ellenparis/2018/05/28/los-angeles-median-home-price-nears-1-million-as-fierce-bidding-wars-continue/#14759c071e85
+6. Paris, E. (2018). Los Angeles' Median Home Price Nears $1 Million As Fierce Bidding Wars Continue. Retrieved from Forbes: https://www.forbes.com/sites/ellenparis/2018/05/28/los-angeles-median-home-price-nears-1-million-as-fierce-bidding-wars-continue/#14759c071e85
 
-Shuster, B. (1994). Parents Taking a Second Look at Public Schools. Retrieved from Los Angeles Times: http://articles.latimes.com/1994-12-31/local/me-14839_1_public-school-system
+7. Shuster, B. (1994). Parents Taking a Second Look at Public Schools. Retrieved from Los Angeles Times: http://articles.latimes.com/1994-12-31/local/me-14839_1_public-school-system
 
-Tom. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
+8. Tom. (2010). Sawtelle. Retrieved from Los Angeles Times: http://maps.latimes.com/neighborhoods/neighborhood/sawtelle/comments/
 
-Tveten, J. (2018). No Walk in the Garden for the Urban Homeless. Retrieved from LA Progressive : https://medium.com/@laprogressive1/no-walk-in-the-garden-for-the-urban-homeless-16260ab75d59
+9. Tveten, J. (2018). No Walk in the Garden for the Urban Homeless. Retrieved from LA Progressive : https://medium.com/@laprogressive1/no-walk-in-the-garden-for-the-urban-homeless-16260ab75d59
 
-West Los Angeles. (2014). Retrieved from Point 2 Homes: https://www.point2homes.com/US/Neighborhood/CA/Los-Angeles/West-Los-Angeles-Demographics.html
+10. West Los Angeles. (2014). Retrieved from Point 2 Homes: https://www.point2homes.com/US/Neighborhood/CA/Los-Angeles/West-Los-Angeles-Demographics.html
