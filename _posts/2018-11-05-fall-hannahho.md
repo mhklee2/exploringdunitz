@@ -13,12 +13,12 @@ desc: "Los Angeles, a Slave to the Business Firms"
 
 ![Figure 1a: Females in the Workforce](images/Figure 1A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 1b: Residents of the Financial District](images/Figure 1B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
  The pedestrians’ clothes and actions, if looked at closely, reveal whether they work or live in DTLA. The people are generally dressed well, mostly wearing business casual attire, are most likely a part of the white collar working members (bankers) of the Financial District (Figure 1a). These individuals are focused on getting somewhere, usually wearing headphones, indicating that they do not want to be bothered; talking to other people; or discussing business matters on the phone. There are less artists and casually dressed people on the streets. There are only busy business people who have somewhere to be and something to do. There is a surprisingly large representation of women–insinuating that there are more females entering the banking world (Figure 1a). With the rise of the feminist movement as well as a recently passed bill in California that requires corporate boards of directors to include women, this makes sense. 25% of California’s publicly traded companies do not have a woman on their board, so Governor Brown believed it was time for California to bring gender diversity to the corporate oars (McGreevy). Though the Financial District is not known for being a residential area, there were a couple of individuals walking their dogs and wearing casual attire (Figure 1b)–distinguishing them from the workers. These were a rare sight, as the Financial District is not known for being a residential area. Even those who are a part of the banking circle do not want to live in the center of it all, despite the Financial District being built entirely for them. 
@@ -27,29 +27,29 @@ Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogs
 
 ![Figure 2a: Co-workers sharing a drink at Bunker Hill Bar & Grill](images/Figure 2A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 2b: Casey's Bar](images/Figure 2B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 2c: Businessmen in Karl Strauss on computers](images/Figure 2C.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
  Within the bars, even at 5 pm, there are people in business casual clothes sharing a drink (Figure 2a)–perhaps just networking–and there are people in business formal clothes on computers with paperwork laid out on the table (Figure 2c)–perhaps an indication of a business deal being made. In a 2015 L.A. Times article, Josh Stephens writes, “Many Los Angeles residents have no place within walking distance to share a pitcher of beer or a bottle of wine with friends. As a result, they can't just ‘get a drink.’ They have to ‘go out,’ which often means driving to an area where large numbers of true bars are tolerated, like Downtown.” The Financial District in particular is known for its bar culture, so not only are bars full of businesspersons, but also residents from all over LA looking to have a drink. The businesses and people who make up a neighborhood shape that neighborhood’s culture and determine what other businesses and individuals can flourish in it. Because of this inevitable phenomena, while there are plenty of infrastructural renewal projects and the flourishing of bars, other social issues that desperately need the city’s budget are forgotten. “There was no mechanism to redistribute any share of additional city revenues to purposes other than infrastructure or Downtown renewal. There was no ‘linkage’ between corporate-oriented public investment and the social needs that desperately fought for attention in the rest of the city budget. Moreover, the dynamic leadership concentrated on improving Downtown seemed directly subtracted from attention paid to the city’s neighborhoods and their subsistence needs” (Davis vii-viii). Social issues such as rent control, homelessness, and the protection of small businesses are all disregarded–the city simply focuses on molding itself to cater to the wealthy bankers. 
 
 ![Figure 3a: Construction deterring individuals from seeing "Subway terminal building" mural](images/Figure 3A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 3b: Construction deterring individuals from seeing "Treaty of Cahuenga" mural](images/Figure 3B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
    The city councilmen are almost pressured to modify the city to make more room to accommodate this banking and bar culture. At the same time, they are trying to benefit off the spread of bars. “In late March, council member Mike Bonin introduced a motion that, if passed, would, according to the Los Angeles Area Chamber of Commerce, add $2,484 to the already astronomical cost of opening a bar or liquor-serving restaurant in Los Angeles” (Stephens). An extra $2000 is nothing for these big businesses, but it drives out the small businesses–creating a path for more big businesses (bars) to come into DTLA. Taking care of the small business owners is not a concern the councilmen as they only care about increasing the city’s budget. Constructing these new bars creates a hostile environment for homeless people, as they cannot just linger on aside construction areas, as well as pedestrians, who do not have a clean sidewalk to walk on. This hostility creates an exclusive community for bankers who can afford cars and pushes everybody else who cannot afford this lifestyle out of DTLA. 
@@ -57,17 +57,17 @@ Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogs
 
 ![Figure 4a: "City Above" mural outside metro station](images/Figure 4A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 4b: "City Above" mural, what you see going down escalator](images/Figure 4B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 4c: "City Above" mural, what you see going up escalator](images/Figure 4C.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 Other times, art is tossed to the side perhaps due to the lack of space in DTLA or because it is considered unimportant and not worth maintaining by the city. Two murals, “Treaty of Cahuenga, Los Angeles, 1931” by Hugo Ballin and “Stamps of victory, Los Angeles, 1994” by Johanna Poethig, in the Financial District simply cannot be found. Many people do not even know about them and if one actively tries to look for it, it cannot be found. These murals are literally and figuratively off the map. This reveals how the city views these murals and again makes the mural exclusive to those who actively seek out public art.
@@ -75,34 +75,34 @@ Other times, art is tossed to the side perhaps due to the lack of space in DTLA 
 
 ![Figure 5a: Escalators entering The Gas Company building to see "California Moments" mural](images/Figure 5A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 5b: Elevators on left side of photo, can't take it up to see "California Moments" mural](images/Figure 5B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 5c: Puoblic café on other side of inaccessible elevators with security guard](images/Figure 5C.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 Another mural, “The Apotheosis of power, Los Angeles, 1930” (Figure 6c) by Hugo Ballin was also unavailable to the public. The Torrey Pines Bank doors are locked so only employees could enter–making it an exclusively viewed mural (Figure 6a). One could walk in as a banker is walking out, but there is awkward tension with the receptionist and feelings of not belonging (Figure 6b). This indicates that the audience for this mural is just the wealthy bankers; it is only intended for the elite to walk by it and admire it as they walk into work. This is reflecting privilege, as only a highly selective audience can see this mural. At one point in history, art was a luxury as only the wealthy had the leisure time to admire it. “At a time when the middle class was striving to incorporate into its own vocabulary the type of painting formerly appropriated by the wealthy, the wealthy were beginning to distinguish themselves by buying abstract expressionist art, hesitantly at first (1943-45) but alter with ever increasing confidence” (Guilbaut 95). As soon as art becomes something the middle class can also afford, the wealthy do something to distinguish themselves. This is being done in contemporary DTLA as “public” murals are made unavailable and exclusive to the privileged. As the Financial District takes over the art districts of DTLA and makes public murals inaccessible, it is creating an exclusive, elitist community for the bankers. The inaccessibility and privilege associated with the art bring upon the impression that everything about the Downtown Financial District is built around the business culture to cater the white collar employees of these firms. As much as they say the murals are for the public and everyone of Los Angeles, their locations suggest otherwise. 
 
 ![Figure 6a: Outside Torrey Pines Bank, "The Apotheosis of Power" mural](images/Figure 6A.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 6b: Entrance with Receptionist, "The Apotheosis of Power" mural](images/Figure 6B.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
 ![Figure 6c: "The Apotheosis of Power" mural](images/Figure 6C.jpg)
    {:.image}
-Photo taken by Hannah Hong [Photo taken by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
    {:.caption} 
 
    DTLA is already different from Los Angeles as a whole in terms of ethnic and gender demographics and population density. With the expansion of the Financial District, the ethnic and economic demographics are reshaping and rent is becoming unstable, deterring many from living in DTLA even if they work there. At the same time, the businesses and stores you see on the streets are evolving to cater to the well-dressed bankers and businesspeople that swamp the Financial District. Ultimately, DTLA is dominated by construction sites that are creating space for more firms and bars–becoming an exclusive community. It is making public murals inaccessible, making DTLA unaffordable to live in, and creating a hostile environment for the homeless. The exclusive nature of the murals alludes to how DTLA is shifting towards becoming a wealthier community defined by the banking industry–only allowing the privileged to see the “public” art–which goes hand in hand with the Financial District slowly pushing out the art communities of DTLA. The Financial District of DTLA has a changing demographic, caters to the spreading business culture, and creates an exclusive community for bankers. DTLA has become a slave to the business firms and banks, and in a matter of time it may spread to all of Los Angeles. One day, you’ll be on Main Street, look left and right, and only see bank skyscrapers and bars. 
