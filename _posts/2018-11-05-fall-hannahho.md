@@ -35,7 +35,7 @@ desc: "Los Angeles, a Slave to the Business Firms"
 [Photos by Hannah Hong]
    {:.caption} 
 
-![Figure 2c: Businessmen in Karl Strauss on computers](images/Figure 2C.jpg)
+![Figure 2c: Businessmen in Karl Strauss on computers](images/FIgure 2C.jpg)
    {:.image}
 [Photos by Hannah Hong]
    {:.caption} 
