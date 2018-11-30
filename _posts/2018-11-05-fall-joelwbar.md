@@ -57,7 +57,7 @@ Takeaway.” Zócalo Public Square, 14 Feb. 2017
 
 And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.And now another image.
 
-![You change this and put in your own Image title](images/example1.jpg)
+![You change this and put in your own Image title](JBmap.jpg)
    {:.image}
 You also need provide attribution and or a quick description for the the image. This image was found on the [Public Art in LA website](http://www.publicartinla.com/LA_murals/Hollywood/cat_fairfax.html)
    {:.caption} 
