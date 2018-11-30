@@ -2,17 +2,13 @@
 layout: post
 title: "Out With the Old, In With the New"
 date: 2018-10-28
-categories: "sustainability" 
+categories: "Polycultural" 
 author: "Joseph Bioche"
 lat: 34.0840126
 lng: -118.3695729
 runningtitle: "Out With the Old, In With the New"
 desc: "Since its founding, West Hollywood’s distinct culture has faded. The city’s relationship with the LGBTQ community, its founding principles, and modern culture have induced this. Although West Hollywood was founded as a haven for the gay community, the growing widespread acceptance of the group, as well as the attempt to commercialize them have caused the city to lose some of its unique LGBTQ identity. The city has been less than successful in living up to its founding intentions to keep rent low, as well as to maintain its long-time citizenry. Thus, the culture has formed a new culture by adopting contemporary political views and a shared identity with the Los Angeles area."
 ---
-
-
-
-#### **Out With the Old, In With the New**
 
 
 “What is the city but the people?” [5]. Though spoken to the people of Rome, this truth applies to cities regardless of time and place. When a city is founded, there exist principles held by the citizenry, which, over time, change as the citizenry itself changes. The change is often attributed to demographic shifts, whether through immigration, aging, or some other factor. Since its founding, West Hollywood’s distinct culture has faded. The city’s relationship with the LGBTQ community, its founding principles, and modern culture have induced this. Although West Hollywood was founded as a haven for the gay community, the growing widespread acceptance of the group, as well as the attempt to commercialize them have caused the city to lose some of its unique LGBTQ identity. The city has been less than successful in living up to its founding intentions to keep rent low, as well as to maintain its long-time citizenry. Thus, the culture has formed a new culture by adopting contemporary political views and a shared identity with the Los Angeles area.
@@ -62,12 +58,18 @@ With time, West Hollywood has merged a part of its identity with that of the gre
 Coachella,' critics say,” Los Angeles Times, 20-May-2016. [Online]. Available:
 http://www.latimes.com/local/california/la-me-10102020-gay-pride-boycott-notourpride-snap-
 story.html. [Accessed: 30-Nov-2018].
+
+
  [2] Fingerhut, H. “Support for Same-Sex Marriage Grows, Even Among Groups That Had Been
 Skeptical,” Pew Research Center for the People and the Press, 24-Sep-2018. [Online]. Available:
 http://www.people-press.org/2017/06/26/support-for-same-sex-marriage-grows-even-among-groups-that-had-been-skeptical/. [Accessed: 30-Nov-2018].
+
+
 [3] “Foreign Born Ranking,” Los Angeles Times. [Online]. Available:
 http://maps.latimes.com/neighborhoods/foreign-born/neighborhood/list/. [Accessed: 30-Nov-
 2018].
+
+
 [4] Grigoryants, O.  “West Hollywood's Russian Population Is Rapidly Shrinking,” L.A.
 Weekly, 02-Aug-2017. [Online]. Available: https://www.laweekly.com/news/the-russian-population-of-west-hollywood-is-rapidly-shrinking-8142566. [Accessed: 30-Nov-2018].
  
