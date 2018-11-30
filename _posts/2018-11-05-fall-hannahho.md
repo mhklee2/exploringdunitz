@@ -92,7 +92,7 @@ Another mural, “The Apotheosis of power, Los Angeles, 1930” (Figure 6c) by H
 
 ![Figure 6a Outside Torrey Pines Bank, "The Apotheosis of Power" mural](images/Figure 6A.jpg)
    {:.image}
-[Photos by Hannah Hong](http://greatlawalk.blogspot.com/2016/11/)
+[Photos by Hannah Hong]
    {:.caption} 
 
 ![Figure 6b Entrance with Receptionist, "The Apotheosis of Power" mural](images/Figure 6B.jpg)
