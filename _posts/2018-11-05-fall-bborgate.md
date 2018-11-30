@@ -9,13 +9,8 @@ lng: -118.4273
 runningtitle: "this is just the title at the top, no need to do anything here"
 Desc: "This is the map pop up"
 ---
-This is the body of your essay. You will copy and paste your essay into here. You will just delete all the text below and put in your own.
 
-Spaces will work.
-
-Indents do not, so just put a space in for each new paragraph.
 Making a City: West Los Angeles
-Formating is very simple in this document. 
    
    West Los Angeles—a neighborhood that over the past 25 years experienced juristic changes in terms of poverty, demographics, and appearance—has caught the attention of many, including a local resident: “I lived in West LA … in the late 1970's. I look back at my years in West LA as some of the best of my life. As I still live on the Westside, I drive through West LA frequently and have seen the neighborhood change, in my view for the better” (Miguel, 2010). Primarily wealthy single young residents are immigrating to West Los Angeles transforming it into an expensive community with increasing safety and wellbeing while also shifting demographics. This movement creates controversy for two groups of people, the new residents being charged with the burden of bettering the community, and the existing residents experiencing a form of gentrification; being pushed out of their local neighborhood. The overall cost of living in West Los Angeles has been increasing since the mid 1990’s evident through real estate prices and average income increasing while the homeless population decreases. As new policies and actions are being implemented by upper-class residents, progress is being made in terms of the overall image and safety of the community. Census reports have shown a shift in the demographics of West Los Angeles, the neighborhood is becoming more educated, achieving higher incomes, and tending to value the family life less. 
  
